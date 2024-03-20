@@ -16,10 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>PPC</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                     dolorum
-                     quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>Content</h1>
+                  <h2>Writing</h2>
+                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -79,7 +78,7 @@
                            transform="translate(-22.562 17.911)" fill="url(#linear-gradient)" />
                      </svg>
                   </div>
-                  <img src="assets/images/ppc/banner.png" alt="">
+                  <img src="assets/images/content-marketing/banner.png" alt="">
                </div>
             </div>
          </div>
@@ -194,7 +193,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Boost your digital <span> presence </span> people <span>!</span></h6>
+                     <h6>Reach out to the <span> right </span> people!</h6>
                      <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
       
                      <div class="groupBtn">
@@ -258,7 +257,7 @@
                      </div>
                      <div class="col-md-5">
                         <div class="seoSec1-second-third">
-                           <img src="assets/images/ppc/img1.png" alt="">
+                           <img src="assets/images/content-marketing/img1.png" alt="">
                         </div>
                      </div>
                   </div>
@@ -268,14 +267,144 @@
       </div>
    </section>
 
-   <section class="ppcSection2">
+   <section class="contentSection1">
       <div class="container">
-         <div class="ppcSec2-cont">
-            <h5>Drive your business</h5>
-            <h5 class="purple">with pay-per-click</h5>
+         <div class="contentSec1-hd mn-hd">
+            <h6>Things That Make Us The Best Content <span>Writing Company</span></h6>
+
+            <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet voluptatibus. Ea ipsum veniam sed veniam expedita aut magni architecto hic sequi deleniti et voluptatem minima aut sequi quaerat. Ad optio mollitia 33 omnis illo aut necessitatibus incidunt id voluptatibus eveniet a dolor quam non odit accusamus</p>
          </div>
-         <div class="ppcSec2-img">
-            <img src="assets/images/ppc/sec2-img.png" alt="">
+
+         <div class="contentSec1-main">
+            <div class="row">
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardCont">
+                        <h6>Experienced Writers</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="64.655" height="45.164" viewBox="828.673 2897.918 64.655 45.164">
+                           <path d="M841.846 2897.918h-11.291a1.887 1.887 0 0 0-1.882 1.882v41.4c0 1.035.847 1.882 1.882 1.882h11.29a1.887 1.887 0 0 0 1.883-1.882v-41.4a1.887 1.887 0 0 0-1.882-1.882Zm-1.882 11.291h-7.527v-3.764h7.527v3.764Zm20.7-11.29h-11.29a1.887 1.887 0 0 0-1.883 1.88v41.401c0 1.035.847 1.882 1.882 1.882h11.291a1.887 1.887 0 0 0 1.882-1.882v-41.4a1.887 1.887 0 0 0-1.882-1.882Zm-1.882 11.29h-7.527v-3.764h7.527v3.764Zm14.884-8.381-10.084 5.08a1.887 1.887 0 0 0-.834 2.528l16.936 33.61a1.887 1.887 0 0 0 2.527.835l10.083-5.08a1.887 1.887 0 0 0 .834-2.528l-16.935-33.611a1.887 1.887 0 0 0-2.527-.834Zm9.58 40.372a1.882 1.882 0 1 1-3.764 0 1.882 1.882 0 0 1 3.764 0Z" fill="#f58124" fill-rule="evenodd" data-name="Icon metro-books"/>
+                        </svg>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="43.022" height="52.582" viewBox="1035.488 2890.5 43.022 52.582">
+                           <path d="m1057 2890.5-21.512 9.56v14.34c0 13.266 9.178 25.67 21.511 28.682 12.333-3.011 21.51-15.416 21.51-28.681v-14.34L1057 2890.5Zm0 26.267h16.73c-1.267 9.847-7.84 18.619-16.73 21.368v-21.344h-16.732v-13.624l16.731-7.433v21.033Z" fill="#f58124" fill-rule="evenodd" data-name="Icon material-security"/>
+                        </svg>
+                     </div>
+
+                     <div class="contentSec1-cardCont">
+                        <h6>Privacy</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+                  </div>
+               </div>
+               
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardCont">
+                        <h6>Affprdabolity</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24.303" height="46.677" viewBox="844.848 3129.161 24.303 46.677">
+                           <path d="M869.151 3160.028c0 2.657-.864 4.944-2.592 6.863-1.727 1.919-3.972 3.104-6.733 3.556v4.558a.811.811 0 0 1-.234.599.811.811 0 0 1-.6.234h-3.516a.8.8 0 0 1-.586-.247.801.801 0 0 1-.247-.586v-4.558a16.419 16.419 0 0 1-3.321-.808c-1.068-.382-1.95-.768-2.644-1.159a17.544 17.544 0 0 1-1.928-1.25c-.59-.443-.994-.769-1.21-.977a6.66 6.66 0 0 1-.457-.469c-.295-.365-.312-.72-.052-1.068l2.683-3.516c.122-.174.321-.278.6-.313.26-.035.468.044.624.235l.052.052c1.963 1.719 4.072 2.804 6.33 3.256a9.098 9.098 0 0 0 1.927.208c1.407 0 2.644-.373 3.712-1.12 1.068-.747 1.602-1.806 1.602-3.178 0-.486-.13-.946-.39-1.38a4.88 4.88 0 0 0-.873-1.094c-.322-.296-.83-.621-1.524-.977a34.679 34.679 0 0 0-1.72-.834 54.39 54.39 0 0 0-2.083-.846 208.18 208.18 0 0 0-1.602-.651c-.39-.157-.925-.387-1.602-.69a18.954 18.954 0 0 1-1.628-.808 26.83 26.83 0 0 1-1.471-.925c-.573-.382-1.038-.75-1.394-1.107a16.234 16.234 0 0 1-1.133-1.276 6.372 6.372 0 0 1-.925-1.51c-.217-.513-.399-1.09-.547-1.733a9.04 9.04 0 0 1-.221-2.032c0-2.396.85-4.497 2.553-6.303 1.701-1.806 3.915-2.97 6.642-3.49v-4.69a.8.8 0 0 1 .247-.585.801.801 0 0 1 .586-.248h3.517c.243 0 .442.079.599.235a.811.811 0 0 1 .234.599v4.584c.99.104 1.95.304 2.878.6.93.295 1.685.585 2.266.872a12.55 12.55 0 0 1 1.654.977c.521.364.86.616 1.016.755.157.139.287.26.391.365.295.312.339.642.13.99l-2.11 3.802c-.138.261-.338.4-.599.417-.243.052-.477-.008-.703-.182a5.352 5.352 0 0 0-.378-.313c-.2-.156-.538-.386-1.016-.69a13.441 13.441 0 0 0-1.523-.833 11.633 11.633 0 0 0-1.94-.678 8.69 8.69 0 0 0-2.228-.3c-1.65 0-2.995.374-4.037 1.12-1.042.748-1.563 1.711-1.563 2.892 0 .452.074.868.221 1.25.148.382.404.743.769 1.081.364.339.707.625 1.029.86.32.234.807.504 1.458.807.651.304 1.177.539 1.576.704.4.165 1.007.403 1.823.716.92.347 1.624.62 2.11.82.486.2 1.146.504 1.98.912.833.408 1.489.777 1.966 1.107.478.33 1.016.764 1.615 1.302.6.539 1.06 1.09 1.38 1.655a9.44 9.44 0 0 1 .821 1.992c.226.764.34 1.58.34 2.449Z" fill="#f58124" fill-rule="evenodd" data-name="Icon metro-dollar2"/>
+                        </svg>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51.673" height="41.338" viewBox="1031.164 3127.331 51.673 41.338">
+                           <path d="M1049.25 3148c5.707 0 10.334-4.627 10.334-10.334 0-5.708-4.627-10.335-10.334-10.335-5.708 0-10.335 4.627-10.335 10.335 0 5.707 4.627 10.334 10.335 10.334Zm7.75 5.168c.006-.863.231-1.71.655-2.463-.388-.04-.767-.121-1.171-.121h-1.349a14.055 14.055 0 0 1-11.771 0h-1.349c-5.99 0-10.848 4.856-10.85 10.849v3.361a3.875 3.875 0 0 0 3.875 3.875h22.68a5.13 5.13 0 0 1-.72-2.583v-12.918Zm23.253-2.584h-2.583v-6.46a6.46 6.46 0 1 0-12.919 0v6.46h-2.583a2.584 2.584 0 0 0-2.584 2.584v12.918a2.584 2.584 0 0 0 2.584 2.583h18.085a2.584 2.584 0 0 0 2.584-2.583v-12.918a2.584 2.584 0 0 0-2.584-2.584Zm-9.042 11.626a2.584 2.584 0 1 1 0-5.167 2.584 2.584 0 0 1 0 5.167Zm2.583-11.626h-5.167v-6.46a2.584 2.584 0 1 1 5.167 0v6.46Z" fill="#f58124" fill-rule="evenodd" data-name="Icon awesome-user-lock"/>
+                        </svg>
+                     </div>
+
+                     <div class="contentSec1-cardCont">
+                        <h6>Custom Satisfaction</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+                  </div>
+               </div>
+
+
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardCont">
+                        <h6>24/7 support</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="43.5" height="43.5" viewBox="1035.25 3358.25 43.5 43.5">
+                           <path d="M1057 3358.25c-12.015 0-21.75 9.735-21.75 21.75s9.735 21.75 21.75 21.75 21.75-9.735 21.75-21.75-9.735-21.75-21.75-21.75Zm1.464 23.632c0 .805-.659 1.464-1.464 1.464h-10.038a1.468 1.468 0 0 1-1.464-1.464c0-.805.658-1.464 1.464-1.464h8.574v-13.803c0-.805.659-1.464 1.464-1.464.805 0 1.464.66 1.464 1.464v15.267Z" fill="#f58124" fill-rule="evenodd" data-name="Icon ionic-ios-time"/>
+                        </svg>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="42.022" height="44.234" viewBox="837.635 3362.342 42.022 44.234">
+                           <path d="M857.54 3362.342c-9.772 0-17.694 7.922-17.694 17.694v4.202a6.458 6.458 0 0 0-2.211 4.645 6.37 6.37 0 0 0 4.29 5.772c2.876 6.879 8.648 11.921 15.615 11.921h6.635v-4.423h-6.635c-4.998 0-9.532-3.76-11.81-9.71l-.465-1.216-1.305-.133a2.212 2.212 0 0 1-1.902-2.211 2.212 2.212 0 0 1 1.106-1.902l1.106-.642v-4.091c0-1.222.99-2.212 2.212-2.212h22.117c1.221 0 2.211.99 2.211 2.212v11.058h-9.046a3.318 3.318 0 1 0-3.361 4.424h16.83a4.423 4.423 0 0 0 4.424-4.424v-4.423a4.423 4.423 0 0 0-4.423-4.424v-4.423c0-9.772-7.922-17.694-17.694-17.694Z" fill="#f58124" fill-rule="evenodd" data-name="Path 1090"/>
+                        </svg>
+                     </div>
+
+                     <div class="contentSec1-cardCont">
+                        <h6>Timely Delivery</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+                  </div>
+               </div>
+               
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardCont">
+                        <h6>Personalized Approach</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="47.555" height="36.5" viewBox="833.723 3598.25 47.555 36.5">
+                           <g data-name="Group 173">
+                              <path d="M864.179 3630.198a7.674 7.674 0 0 0-7.674-7.674h-1.981a1.862 1.862 0 0 1-1.863-1.862c0-.382.155-.748.427-1.015 1.152-1.124 2.12-2.63 2.822-4.254.143.106.296.182.468.182 1.113 0 2.42-2.458 2.42-4.135 0-1.676-.155-3.034-1.27-3.034-.13 0-.272.022-.413.058-.078-4.545-1.227-10.214-8.166-10.214-7.24 0-8.086 5.659-8.166 10.199-.101-.02-.205-.042-.299-.042-1.113 0-1.267 1.359-1.267 3.035 0 1.676 1.306 4.134 2.42 4.134a.761.761 0 0 0 .383-.107c.698 1.598 1.655 3.076 2.79 4.18.274.268.427.634.427 1.016a1.862 1.862 0 0 1-1.862 1.862h-1.978a7.67 7.67 0 0 0-7.674 7.67v2.129a2.424 2.424 0 0 0 2.423 2.424h25.609a2.424 2.424 0 0 0 2.425-2.424l-.001-2.128Z" fill="#f58124" fill-rule="evenodd" data-name="Path 1091"/>
+                              <path d="M858.005 3601.469c.62 1.371 1.063 3.06 1.249 5.149.459.282.8.74 1.083 1.291h19.146c.99 0 1.795-.804 1.795-1.795v-2.849c0-.99-.804-1.795-1.795-1.795l-21.478-.001Z" fill="#d02852" fill-rule="evenodd" data-name="Path 1092"/>
+                              <path d="M857.288 3617.664c-.05.094-.112.177-.164.272v1.705h22.359c.99 0 1.795-.804 1.795-1.794v-2.849c0-.991-.804-1.795-1.795-1.795h-18.707c-.507 1.918-1.76 3.925-3.488 4.461Z" fill="#d02852" fill-rule="evenodd" data-name="Path 1093"/>
+                              <path d="M866.408 3630.198v1.18h13.075c.99 0 1.795-.804 1.795-1.795v-2.85c0-.99-.804-1.794-1.795-1.794h-14.601a9.83 9.83 0 0 1 1.526 5.259Z" fill="#d02852" fill-rule="evenodd" data-name="Path 1094"/>
+                           </g>
+                        </svg>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="contentSec1-card">
+                     <div class="contentSec1-cardIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="36.992" height="51.315" viewBox="1038.504 3590.843 36.992 51.315">
+                           <path d="M1065.348 3629.187v7.918l3.793 1.578v-11.57a21.516 21.516 0 0 1-3.793 2.074Zm-20.49-2.075v11.492l3.794-1.578v-7.839a21.514 21.514 0 0 1-3.794-2.075Zm12.142 3.76a21.496 21.496 0 0 1-5.312-.664v11.95l5.312-2.211 5.311 2.21v-11.95a21.5 21.5 0 0 1-5.311.664Zm0-40.03c-10.2 0-18.496 8.298-18.496 18.497s8.297 18.496 18.496 18.496c10.199 0 18.496-8.297 18.496-18.496 0-10.199-8.297-18.496-18.496-18.496Zm0 33.085c-8.086 0-14.664-6.578-14.664-14.664 0-8.085 6.578-14.663 14.664-14.663 8.085 0 14.663 6.578 14.663 14.663 0 8.086-6.578 14.664-14.663 14.664Zm0-26.29c-6.411 0-11.627 5.215-11.627 11.626 0 6.412 5.216 11.627 11.627 11.627 6.41 0 11.627-5.216 11.627-11.627 0-6.411-5.216-11.627-11.627-11.627Zm4.778 18.412-4.778-2.512-4.779 2.512.913-5.321-3.866-3.768 5.342-.777 2.39-4.841 2.389 4.841 5.343.777-3.866 3.768.912 5.321Z" fill="#f58124" fill-rule="evenodd" data-name="quality-supervision-svgrepo-com"/>
+                        </svg>
+                     </div>
+
+                     <div class="contentSec1-cardCont">
+                        <h6>Guaranteed Refund</h6>
+                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                     </div>
+                  </div>
+               </div>
+
+
+            </div>
          </div>
       </div>
    </section>
@@ -356,6 +485,278 @@
          </div>
       </div>
    </section>
+
+   <!-- <section class="portfolioSection">
+      <div class="container">
+         <div class="portfolio-main">
+            <div class="row align-items-center">
+               <div class="col-md-5">
+                  <div class="portfolio-hd mn-hd">
+                     <h6>Our <span>Portfolio</span></h6>
+                  </div>
+               </div>
+
+               <div class="col-md-7">
+                  <div class="portfolio-nav">
+                     <ul>
+                        <li class="current" data-targetit="box-1">
+                           <a href="#">All</a>
+                        </li>
+
+                        <li data-targetit="box-2">
+                           <a href="#">Website</a>
+                        </li>
+
+                        <li data-targetit="box-3">
+                           <a href="#">Logo</a>
+                        </li>
+
+                        <li data-targetit="box-4">
+                           <a href="#">Branding</a>
+                        </li>
+
+                        <li data-targetit="box-5">
+                           <a href="#">Animation</a>
+                        </li>
+
+                        <li data-targetit="box-6">
+                           <a href="#">NFT</a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-1 showfirst">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/wp/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/wp/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/wp/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/wp/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/wp/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/wp/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/wp/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/wp/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/wp/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/wp/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/wp/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/wp/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-2">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-3">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-4">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+               
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-5">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-6">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+               
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+   </section> -->
 
    <section class="packageSection">
       <div class="container">

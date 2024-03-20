@@ -16,10 +16,8 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>PPC</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                     dolorum
-                     quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>Animation</h1>
+                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -79,7 +77,7 @@
                            transform="translate(-22.562 17.911)" fill="url(#linear-gradient)" />
                      </svg>
                   </div>
-                  <img src="assets/images/ppc/banner.png" alt="">
+                  <img src="assets/images/animation/banner.png" alt="">
                </div>
             </div>
          </div>
@@ -194,7 +192,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Boost your digital <span> presence </span> people <span>!</span></h6>
+                     <h6>Keen to details, <span> amazing artworks!</span></h6>
                      <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
       
                      <div class="groupBtn">
@@ -258,7 +256,7 @@
                      </div>
                      <div class="col-md-5">
                         <div class="seoSec1-second-third">
-                           <img src="assets/images/ppc/img1.png" alt="">
+                           <img src="assets/images/animation/img1.png" alt="">
                         </div>
                      </div>
                   </div>
@@ -268,14 +266,274 @@
       </div>
    </section>
 
-   <section class="ppcSection2">
+   <section class="portfolioSection">
       <div class="container">
-         <div class="ppcSec2-cont">
-            <h5>Drive your business</h5>
-            <h5 class="purple">with pay-per-click</h5>
+         <div class="portfolio-main">
+            <div class="row align-items-center">
+               <div class="col-md-5">
+                  <div class="portfolio-hd mn-hd">
+                     <h6>Our <span>Portfolio</span></h6>
+                  </div>
+               </div>
+
+               <div class="col-md-7">
+                  <div class="portfolio-nav">
+                     <ul>
+                        <li class="current" data-targetit="box-1">
+                           <a href="#">All</a>
+                        </li>
+
+                        <li data-targetit="box-2">
+                           <a href="#">Website</a>
+                        </li>
+
+                        <li data-targetit="box-3">
+                           <a href="#">Logo</a>
+                        </li>
+
+                        <li data-targetit="box-4">
+                           <a href="#">Branding</a>
+                        </li>
+
+                        <li data-targetit="box-5">
+                           <a href="#">Animation</a>
+                        </li>
+
+                        <li data-targetit="box-6">
+                           <a href="#">NFT</a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
          </div>
-         <div class="ppcSec2-img">
-            <img src="assets/images/ppc/sec2-img.png" alt="">
+      </div>
+
+      <div class="box-1 showfirst">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/animation/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/animation/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/animation/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/animation/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/animation/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/animation/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/animation/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/animation/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/animation/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/animation/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/animation/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/animation/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-2">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-3">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-4">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+               
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-5">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
+         </div>
+      </div>
+
+      <div class="box-6">
+         <div class="container-fluid p-0">
+            <div class="portfolio-gallery">
+               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf1.png" />
+               </a>
+
+               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
+                  <img src="assets/images/smm/pf3.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf2.png" />
+               </a> 
+   
+               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
+                  <img src="assets/images/smm/pf4.png" />
+               </a>
+   
+               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
+                  <img src="assets/images/smm/pf6.png" />
+               </a>
+               
+               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
+                  <img src="assets/images/smm/pf5.png" />
+               </a>
+            </div>
+   
+   
+            <div class="portfolio-btn mn-btn text-center">
+               <a href="#">
+                  <?php include("includes/btn-svg.php"); ?>
+                  View More
+               </a>
+            </div>
          </div>
       </div>
    </section>

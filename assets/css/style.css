@@ -1863,6 +1863,85 @@ footer .widget ol li a {
   color: #f0812a;
 }
 
+.contentSection1 {
+  padding: 160px 0px;
+}
+.contentSection1 .contentSec1-hd {
+  text-align: center;
+  padding: 0 12% 65px;
+}
+.contentSection1 .contentSec1-hd h6 {
+  padding-bottom: 40px;
+}
+.contentSection1 .contentSec1-hd p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #878787;
+}
+.contentSection1 .contentSec1-main .row {
+  row-gap: 30px;
+}
+.contentSection1 .contentSec1-main .row .col-md-6 {
+  padding-right: 40px;
+}
+.contentSection1 .contentSec1-main .row .col-md-6:nth-child(2n) {
+  padding-right: 0;
+  padding-left: 40px;
+}
+.contentSection1 .contentSec1-main .row .col-md-6:nth-child(2n) .contentSec1-card {
+  padding: 40px 40px 40px 0px;
+}
+.contentSection1 .contentSec1-main .row .col-md-6:nth-child(2n) .contentSec1-card .contentSec1-cardCont {
+  text-align: left;
+}
+.contentSection1 .contentSec1-main .row .col-md-6:nth-child(2n) .contentSec1-card .contentSec1-cardIcon {
+  transform: translateX(-20px);
+}
+.contentSection1 .contentSec1-main .contentSec1-card {
+  background-color: #fff1e5;
+  border-radius: 8px;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 40px 0px 40px 40px;
+  gap: 40px;
+}
+.contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardCont {
+  text-align: right;
+}
+.contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardCont h6 {
+  font-family: "Orbitron";
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  color: #2a368e;
+  padding-bottom: 15px;
+}
+.contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardCont p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  font-style: normal;
+  color: #878787;
+}
+.contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardIcon {
+  width: 144px;
+  height: 133px;
+  border-color: #f77e1d;
+  border-width: 0.5px;
+  border-style: solid;
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transform: translateX(20px);
+}
+
 @media (max-width: 1200px) {
   img {
     max-width: 100%;
