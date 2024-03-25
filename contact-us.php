@@ -186,7 +186,63 @@
       </div>
    </section>
 
-   <section class="conatctSectionPage"></section>
+   <section class="conatctSectionPage">
+      <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-md-4">
+               <div class="conatctSecP-cont mn-hd">
+                  <h6>Contact <span>US</span></h6>
+                  <h4>Brew a cup and grab a seat...</h4>
+                  <h6 class="sub">Fill Out The Form And <span> We’ll Get In Touch</span></h6>
+               </div>
+            </div>
+
+            <div class="col-md-4">
+               <div class="conatctSecP-form">
+                  <div class="row">
+                     <div class="col-md-6">
+                        <input type="text" placeholder="Full Name">
+                     </div>
+
+                     <div class="col-md-6">
+                        <input type="text" placeholder="Telephone (Optional)">
+                     </div>
+
+                     <div class="col-md-6">
+                        <input type="email" placeholder="Email">
+                     </div>
+
+                     <div class="col-md-6">
+                        <input type="text" placeholder="Company (Optional)">
+                     </div>
+
+                     <div class="col-md-12">
+                        <input type="text" placeholder="Message">
+                     </div>
+
+                     <div class="col-md-12">
+                        <label for="fcheck">
+                           <input type="checkbox" id="fcheck">
+                           I would like to receive the Idea Rocket Newsletter
+                        </label>
+                     </div>
+
+                     <div class="col-md-12">
+                        <button type="submit">SEND</button>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+
+            <div class="col-md-4">
+               <div class="conatctSecP-img">
+                  <<img src="assets/images/contact/img1.png" alt="img">>
+               </div>
+            </div>
+          </div>
+      </div>
+   </section>
 
    <section class="faqSection">
       <div class="container">

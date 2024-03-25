@@ -17,10 +17,10 @@
    				<h6>Services</h6>
 
 				<ul>
-					<li><a href="#">Web design & Development</a></li>
+					<li><a href="web-design">Web design & Development</a></li>
 					<li><a href="#">E-Commerce</a></li>
 					<li><a href="#">Web Portal</a></li>
-					<li><a href="#">Logo Design</a></li>
+					<li><a href="logo.php">Logo Design</a></li>
 					<li><a href="#">Video Animation</a></li>
 					<li><a href="#">Packages</a></li>
 					
@@ -32,11 +32,11 @@
    				<h6>&nbsp;</h6>
 
 				<ul>
-					<li><a href="#">Branding</a></li>
-					<li><a href="#">Social Media</a></li>
-					<li><a href="#">SEO</a></li>
-					<li><a href="#">Content Writing</a></li>
-					<li><a href="#">Mobile Apps</a></li>
+					<li><a href="branding.php">Branding</a></li>
+					<li><a href="smm.php">Social Media</a></li>
+					<li><a href="seo.php">SEO</a></li>
+					<li><a href="content-marketing.php">Content Writing</a></li>
+					<li><a href="application-development.php">Mobile Apps</a></li>
 					<li><a href="#">Combo Packages</a></li>
 				</ul>
    			</div>
@@ -59,7 +59,7 @@
 					</li>
 
 					<li>
-						<a href="mailto:info@abc.com">
+						<a href="https://www.google.com/maps" target="_blank">
 							<i class="fas fa-map-marker-alt"></i> 138 ABC  200 Australia, CA 91203
 						</a>
 					</li>
@@ -80,8 +80,8 @@
 			<p>All Rights Reserved</p>
 		</div>
 
-		<div class="col-md-6 text-right">
-			<a href="#">Policy </a>
+		<div class="col-md-6 text-end">
+			<a href="privacy-and-policy.php">Policy </a>
 			<span> | </span>
 			<a href="#"> Terms</a>
 		</div>
