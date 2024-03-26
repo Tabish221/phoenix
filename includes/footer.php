@@ -17,13 +17,13 @@
    				<h6>Services</h6>
 
 				<ul>
-					<li><a href="web-design">Web design & Development</a></li>
-					<li><a href="#">E-Commerce</a></li>
-					<li><a href="#">Web Portal</a></li>
-					<li><a href="logo.php">Logo Design</a></li>
-					<li><a href="#">Video Animation</a></li>
-					<li><a href="#">Packages</a></li>
-					
+					<li><a href="web-design.php">Web Design</a></li>
+					<li><a href="custom-web-development.php">Custom Web Development</a></li>
+					<li><a href="wordpress-development.php">Wordpress Development</a></li>
+					<li><a href="application-development.php">Application Development</a></li>
+					<li><a href="logo.php">Logo Designing</a></li>
+					<li><a href="smm.php">Social Media Marketing</a></li>
+					<li><a href="video-production.php">Video Production</a></li>
 				</ul>
    			</div>
    		</div>
@@ -32,12 +32,13 @@
    				<h6>&nbsp;</h6>
 
 				<ul>
-					<li><a href="branding.php">Branding</a></li>
-					<li><a href="smm.php">Social Media</a></li>
+					<li><a href="illustration.php">Illustration</a></li>
+					<li><a href="ppc.php">PPC</a></li>
 					<li><a href="seo.php">SEO</a></li>
-					<li><a href="content-marketing.php">Content Writing</a></li>
-					<li><a href="application-development.php">Mobile Apps</a></li>
-					<li><a href="#">Combo Packages</a></li>
+					<li><a href="animation.php">Animation</a></li>
+					<li><a href="branding.php">Branding</a></li>
+					<li><a href="content-marketing.php">Content Marketing</a></li>
+					<li><a href="portfolio.php">Portfolio</a></li>
 				</ul>
    			</div>
    		</div>
@@ -47,14 +48,14 @@
 
 				<ol>
 					<li>
-						<a href="mailto:info@abc.com">
-							<i class="fas fa-envelope"></i> info@abc.com
+						<a href="mailto:info@phoenix.com">
+							<i class="fas fa-envelope"></i> info@phoenix.com
 						</a>
 					</li>
 
 					<li>
-						<a href="mailto:info@abc.com">
-						<i class="fas fa-phone-alt"></i> +1234567890
+						<a href="tel:+1234567890">
+						<i class="fas fa-phone-alt"></i> +1-2345-6789-0
 						</a>
 					</li>
 
@@ -81,9 +82,9 @@
 		</div>
 
 		<div class="col-md-6 text-end">
-			<a href="privacy-and-policy.php">Policy </a>
+			<a href="privacy-policy.php">Policy </a>
 			<span> | </span>
-			<a href="#"> Terms</a>
+			<a href="terms-condition.php"> Terms</a>
 		</div>
 	  </div>
    </div>

@@ -25,7 +25,7 @@
                <input type="email" id="email" name="customer_email" placeholder="Email Address" required="required">
             </div>
             <div class="fld-input">
-               <input type="number" id="phoneNum2" name="customer_phone" placeholder="Phone Number" required="required">
+               <input type="number" id="phoneNum2" name="customer_phone" min="1" placeholder="Phone Number" required="required">
                <input type="hidden" name="source" id="" value="">
             </div>
             <div class="fld-btn packageformsubmit">

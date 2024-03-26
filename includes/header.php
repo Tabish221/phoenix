@@ -17,7 +17,7 @@
 					<div class="menuWrap">
 						<ul class="menu">
 							<li class="active"><a href="./">Home</a></li>
-							<li><a href="#">About Us</a></li>
+							<li><a href="about-us.php">About Us</a></li>
 							<li class="dropdown-nav">
 								<a href="#">Services</a>
 
@@ -26,32 +26,37 @@
 										<div class="col-md-4 p-0">
 											<ol>
 												<li>
-													<a href="#">GHOST WRITING</a>
-													<p>EXPERIENCED, PROFESSIONAL & TRUSTWORTHY GHOSTWRITING SERVICES FOR YOU!</p>
+													<a href="web-design.php">web design</a>
+													<p>GIVE YOUR BOOK THE PERFECT LAYOUT IT DESERVES WITH OUR EXPERT BOOK FORMATTING SERVICE.</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK PUBLISHING</a>
+													<a href="custom-web-development.php">custom web development</a>
+													<p>GIVE YOUR BOOK THE PERFECT LAYOUT IT DESERVES WITH OUR EXPERT BOOK FORMATTING SERVICE.</p>
+												</li>
+
+												<li>
+													<a href="wordpress-development.php">wordpress development</a>
+													<p>GIVE YOUR BOOK THE PERFECT LAYOUT IT DESERVES WITH OUR EXPERT BOOK FORMATTING SERVICE.</p>
+												</li>
+
+												<li>
+													<a href="application-development.php">application development</a>
 													<p>REACH YOUR LITERARY GOALS WITH OUR OUTSTANDING BOOK PUBLISHING SERVICE.</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK EDITING</a>
-													<p>USE OUR EXPERT BOOK EDITING SERVICE TO TRANSFORM YOUR MANUSCRIPT.</p>
+													<a href="logo.php">logo Designing</a>
+													<p>REACH YOUR LITERARY GOALS WITH OUR OUTSTANDING BOOK PUBLISHING SERVICE.</p>
 												</li>
 
 												<li>
-													<a href="#">PROOFREADING</a>
-													<p>POLISH YOUR PROSE TO PERFECTION WITH OUR PROOFREADING SERVICE!</p>
-												</li>
-
-												<li>
-													<a href="#">BOOK COVER</a>
+													<a href="smm.php">Social MEDIA MARKETING</a>
 													<p>BOOK COVERS THAT REFLECT THE ESSENCE OF YOUR STORY AND CONVEY THE ELEGANCE OF IT.</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK FORMATTING</a>
+													<a href="video-production.php">video production</a>
 													<p>GIVE YOUR BOOK THE PERFECT LAYOUT IT DESERVES WITH OUR EXPERT BOOK FORMATTING SERVICE.</p>
 												</li>
 											</ol>
@@ -59,33 +64,38 @@
 										<div class="col-md-4 p-0">
 											<ol>
 												<li>
-													<a href="#">GHOST WRITING</a>
+													<a href="illustration.php">illustration</a>
 													<p>EXPERIENCED, PROFESSIONAL & TRUSTWORTHY GHOSTWRITING SERVICES FOR YOU!</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK PUBLISHING</a>
-													<p>REACH YOUR LITERARY GOALS WITH OUR OUTSTANDING BOOK PUBLISHING SERVICE.</p>
-												</li>
-
-												<li>
-													<a href="#">BOOK EDITING</a>
+													<a href="ppc.php">PPC</a>
 													<p>USE OUR EXPERT BOOK EDITING SERVICE TO TRANSFORM YOUR MANUSCRIPT.</p>
 												</li>
 
 												<li>
-													<a href="#">PROOFREADING</a>
+													<a href="seo.php">SEO</a>
 													<p>POLISH YOUR PROSE TO PERFECTION WITH OUR PROOFREADING SERVICE!</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK COVER</a>
-													<p>BOOK COVERS THAT REFLECT THE ESSENCE OF YOUR STORY AND CONVEY THE ELEGANCE OF IT.</p>
+													<a href="animation.php">animation</a>
+													<p>EXPERIENCED, PROFESSIONAL & TRUSTWORTHY GHOSTWRITING SERVICES FOR YOU!</p>
 												</li>
 
 												<li>
-													<a href="#">BOOK FORMATTING</a>
-													<p>GIVE YOUR BOOK THE PERFECT LAYOUT IT DESERVES WITH OUR EXPERT BOOK FORMATTING SERVICE.</p>
+													<a href="branding.php">branding</a>
+													<p>USE OUR EXPERT BOOK EDITING SERVICE TO TRANSFORM YOUR MANUSCRIPT.</p>
+												</li>
+
+												<li>
+													<a href="content-marketing.php">content marketing</a>
+													<p>POLISH YOUR PROSE TO PERFECTION WITH OUR PROOFREADING SERVICE!</p>
+												</li>
+												
+												<li>
+													<a href="portfolio.php">portfolio</a>
+													<p>POLISH YOUR PROSE TO PERFECTION WITH OUR PROOFREADING SERVICE!</p>
 												</li>
 											</ol>
 										</div>
@@ -120,7 +130,7 @@
 									</div>
 								</ul>
 							</li>
-							<li><a href="#">Contact Us</a></li>
+							<li><a href="contact-us.php">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
