@@ -28,8 +28,8 @@
    			</div>
    		</div>
    		<div class="col-md-3">
-   			<div class="widget">
-   				<h6>&nbsp;</h6>
+   			<div class="widget ptMob">
+   				<h6 class="forDesktop">&nbsp;</h6>
 
 				<ul>
 					<li><a href="illustration.php">Illustration</a></li>

@@ -109,7 +109,7 @@ a {
 }
 
 p {
-	line-height: 26px;
+	line-height: 1.4;
 	display: block;
 }
 
@@ -539,6 +539,10 @@ ul.dropdown {
 		text-align: center;
 		border-radius: 3px;
 
+		&::after, &::before{
+			display: none !important;
+		}
+
 		&:hover{
 			// color: #000 !important;
 			background-color: $orange !important;
@@ -578,61 +582,8 @@ ul.dropdown li a:hover {
 }
 
 /* Hamburger Menu */
-.menu-Bar {
-	width: 30px;
-	height: 20px;
-	cursor: pointer;
-	position: absolute;
-	right: 15px;
-	top: 0;
-	bottom: 0px;
-	margin: auto;
-	z-index: 22;
+.menu-Bar{
 	display: none;
-}
-
-.menu-Bar span {
-	display: block;
-	height: 4px;
-	width: 100%;
-	background: #ffff00;
-	position: absolute;
-	transition: .6s all;
-	border-radius: 100px;
-}
-
-.menu-Bar span:nth-child(1) {
-	top: 0;
-}
-
-.menu-Bar span:nth-child(2) {
-	top: 8px;
-	transform-origin: left;
-}
-
-.menu-Bar span:nth-child(3) {
-	top: 16px;
-}
-
-.menu-Bar.open span {
-	background: #b70404;
-}
-
-.menu-Bar.open span:nth-child(1) {
-	transform: rotate(45deg);
-	top: 12px;
-	transform-origin: right-center;
-}
-
-.menu-Bar.open span:nth-child(2) {
-	width: 0;
-	opacity: 0;
-}
-
-.menu-Bar.open span:nth-child(3) {
-	transform: rotate(-45deg);
-	top: 12px;
-	transform-origin: right-center;
 }
 
 /* Main Banner CSS */
@@ -664,6 +615,7 @@ ul.dropdown li a:hover {
 	font-size: 47px;
 	font-weight: 700;
 	color: #F0812A;
+	line-height: 1.2;
 }
 
 .mainBanner-cont h2 span {
@@ -678,6 +630,8 @@ ul.dropdown li a:hover {
 	height: 200px;
 	object-fit: contain;
 }
+
+
 
 .mainBanner-cont p {
 	font-size: 16px;
@@ -717,18 +671,21 @@ ul.dropdown li a:hover {
 	transform: scale(1.05);
 }
 
-.mainBanner-img img {
-	position: relative;
-	z-index: 1;
-	width: 100%;
-}
 
+.mainBanner-img img {
+	position: absolute;
+    z-index: 1;
+    width: 90%;
+    right: 0;
+    left: 0;
+    top: 10px;
+    bottom: 0;
+    margin: auto;
+}
 .mainBanner-bg svg {
 	width: 100%;
-	position: absolute;
-	top: -100px;
-	bottom: 0;
-	margin: auto;
+    height: auto;
+    position: relative;
 }
 
 /* Custom CSS Styling */
@@ -1805,6 +1762,9 @@ footer {
 			position: absolute;
 			top: -320px;
 			right: 20px;
+			// bottom: 0;
+			// margin: auto;
+			max-width: 30vw;
 		}
 	}
 }
@@ -2127,102 +2087,20 @@ footer {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width:1440px) {}
-
-@media (max-width:1200px) {
-	img {
-		max-width: 100%;
-		height: auto;
-	}
-
-	.menu-Bar {
-		display: block;
-		top: 0px;
-	}
-
-	.menuWrap.open {
-		display: flex;
-		left: 0px;
-	}
-
-	.menuWrap {
-		position: fixed;
-		left: -210%;
-		right: 0;
-		top: 0;
-		bottom: 0;
-		margin: auto;
-		background: #ff8000;
-		height: 100vh;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		flex-flow: column;
-		transition: all 0.4s ease;
-		z-index: 3;
-		width: 100vw;
-	}
-
-	ul.menu li {
-		display: block;
-	}
-
-	ul.menu li a {
-		margin-bottom: 10px;
-		padding: 0;
-		display: block;
-		text-align: center;
-		margin-bottom: 15px;
-		padding-right: 0px;
-		margin-right: 0px;
-		color: #fff;
-		font-size: 15px;
-		text-transform: capitalize;
-	}
-
-	.logo img {
-		max-width: 50%;
-	}
-
-	.container {
-		position: relative;
-	}
-
-	header .header-top {
-		display: none;
-	}
-
-	header .main-header ul.menu>li {
-		display: block;
-		padding: 0px;
-	}
-
-	header .main-header ul.menu>li a {
-		color: #fff;
-		padding: 0px;
-	}
-
-	header .main-header ul.menu>li a:before {
-		display: none;
-	}
+.forMobile{
+	display: none;
+}
+.forDesktop{
+	display: block;
 }
 
-@media (max-width:824px) {}
+
+
+
+@import 'responsive';
+
+
+
+
+
+

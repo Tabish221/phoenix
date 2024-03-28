@@ -77,7 +77,7 @@
                            transform="translate(-22.562 17.911)" fill="url(#linear-gradient)" />
                      </svg>
                   </div>
-                  <img src="assets/images/illustration/banner.png" alt="">
+                  <img src="assets/images/illustration/banner.png" alt="" style="width: 75%;">
                </div>
             </div>
          </div>

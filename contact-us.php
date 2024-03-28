@@ -76,8 +76,9 @@
                            d="M443,20.6c237.3,151.311,385.658,132.258,385.658,376.92s-141,290.4-385.658,290.4S22.562,685.505,22.562,440.843,205.7-130.713,443,20.6Z"
                            transform="translate(-22.562 17.911)" fill="url(#linear-gradient)" />
                      </svg>
+
+                     <img src="assets/images/contact/banner.png" alt="" style="width: 80%;top: -40px;">
                   </div>
-                  <img src="assets/images/contact/banner.png" alt="">
                </div>
             </div>
          </div>

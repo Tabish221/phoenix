@@ -270,9 +270,10 @@
 
    <section class="ppcSection2">
       <div class="container">
-         <div class="ppcSec2-cont">
-            <h5>Drive your business</h5>
-            <h5 class="purple">with pay-per-click</h5>
+         <div class="ppcSec2-cont mn-hd text-center">
+            <h6>Drive your business <span>with pay-per-click</span></h6>
+            <!-- <h5>Drive your business</h5> -->
+            <!-- <h5 class="purple">with pay-per-click</h5> -->
          </div>
          <div class="ppcSec2-img">
             <img src="assets/images/ppc/sec2-img.png" alt="">

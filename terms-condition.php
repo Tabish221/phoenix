@@ -62,7 +62,7 @@
             </div>
 
             <div class="col-md-5 position-relative">
-               <div class="mainBanner-img wow fadeInRight p-5" data-wow-delay="0.5s">
+               <div class="mainBanner-img wow fadeInRight" data-wow-delay="0.5s">
                   <div class="mainBanner-bg">
                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="806.096"
                         height="705.828" viewBox="0 0 806.096 705.828">
@@ -77,8 +77,9 @@
                            d="M443,20.6c237.3,151.311,385.658,132.258,385.658,376.92s-141,290.4-385.658,290.4S22.562,685.505,22.562,440.843,205.7-130.713,443,20.6Z"
                            transform="translate(-22.562 17.911)" fill="url(#linear-gradient)" />
                      </svg>
+                     
+                     <img src="assets/images/banner/privacy.png" alt="" style="width: 75%;top: 20%;right: 10%;">
                   </div>
-                  <img src="assets/images/banner/privacy.png" alt="">
                </div>
             </div>
          </div>
