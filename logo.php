@@ -16,9 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Logo</h1>
-                  <h2>Designing</h2>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>LOGO</h1>
+                  <h2>DESIGNING</h2>
+                  <p>We deliver the logos that speaks volumes about the brand identity. We bring brands to life with logo services which leaves the maximum lasting impressions. </p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -193,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Reach out to the <span> right </span> people!</h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>DESIGNING LEGACIES BY OUR  <span> LOGO DESIGNING </span> SERVICES!</h6>
+                     <p>At Phoenix Marketing Services, we understand that the logo is more than just a visual representation for your company. It is the cornerstone for identity and the foundation of the company where the entire brand image is built. Our logo designing services are tailored for reflecting the best and unique values as per personality and vision.</p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -226,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>BRAND IDENTITIES THROUGH COMPELLING LOGO DESIGNS</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -243,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>With the team of our expert logo designers, concept development to final execution takes place. Through our services, we make sure that all the aspects of logo designs speak volumes through the best services in this way for drafting legacies. </p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -883,24 +883,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                  WHAT LOGO DESIGNING SERVICES WE PROVIDE?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We provide comprehensive logo design services as per meeting branding needs. Our services include custom logo designs, logo redesigns, brand identity development, logo variations and the vectorization through development in brand logo animations. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Custom logo design</li>
+                              <li>Brand identity development</li>
+                              <li>Logo redesign</li>
+                              <li>Icon design</li>
+                              <li>Logo variations </li>
+                              <li>Vectorization of existing logos</li>
                            </ul>
                         </div>
                      </div>
@@ -909,24 +909,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     CAN WE MAKE CUSTOM LOGO DESIGN?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Absolutely. We create custom logo designs which can tailor as per the specific needs of your brands by creating unique identity and values. Our team is highly experiences in understanding your specific vision and objectives for setting your brand apart from competitors. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Initial consultation and concept development</li>
+                              <li>Custom logo design concepts</li>
+                              <li>Revision rounds based on client feedback</li>
+                              <li>Finalization of chosen logo design</li>
+                              <li>Delivery of logo files in various formats </li>
+                              <li>Brand color selection and palette creation</li>
                            </ul>
                         </div>
                      </div>
@@ -935,24 +935,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                  CAN WE DO LOGO REDESIGN?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Yes. We offer redesigning services to add a modern touch and refresh your logo while we continue to maintain the identity of your brand. We update your logo as per the new era to reposition your product and brand in the market with a fresh start!</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Analysis of current logo design</li>
+                              <li>Consultation on goals and objectives </li>
+                              <li>Conceptualization of new design concepts</li>
+                              <li>Revision rounds based on client feedback</li>
+                              <li>Integration of updated brand elements</li>
+                              <li>Modernization of design elements</li>
                            </ul>
                         </div>
                      </div>
@@ -978,27 +978,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Exceptional creativity provided for logo designing for my brand as it perfectly captured the brand essence.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah J. </h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1014,9 +996,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Highly recommended! Phoenix Marketing Company designed my logo with excellent attention to detail.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John S. </h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1032,9 +1014,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>I was thrilled with the results I got with logo designing services that reflected directly on my vision and values.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily B</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>Outstanding services provided by this company and the results exceeded my expectations with dedication.</p>
+
+                        <h6>Michael T.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1047,76 +1047,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

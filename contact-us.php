@@ -16,8 +16,8 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Contact</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>CONTACT</h1>
+                  <p>You can contact us now on our phone numbers, email addresses, or visit our office to get the perfect branding, web development, web design, graphic designing, or even illustration services!</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -192,9 +192,9 @@
           <div class="row align-items-center">
             <div class="col-md-4">
                <div class="conatctSecP-cont mn-hd">
-                  <h6>Contact <span>US</span></h6>
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6 class="sub">Fill Out The Form And <span> We’ll Get In Touch</span></h6>
+                  <h6>FILL <span>OUT!</span></h6>
+                  <h4>Let’s get a cup of tea at our office</h4>
+                  <h6 class="sub">Enter your details below & <span> we will soon get in touch with you!</span></h6>
                </div>
             </div>
 

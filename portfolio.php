@@ -16,8 +16,8 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Portfolio</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>PORTFOLIO</h1>
+                  <p>We have abundant projects that we have worked on across different categories and work dimensions in digital marketing, content creation as well as website management!</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -802,24 +802,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                  DO YOU HAVE WEB DEVELOPMENT EXAMPLES?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Yes, we have multiple examples of web development done by our esteemed experts. Take a look!</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Custom website development</li>
+                              <li>Web application development</li>
+                              <li>E-commerce website development</li>
+                              <li>Content management system </li>
+                              <li>Responsive web design</li>
+                              <li>Database-driven web development</li>
                            </ul>
                         </div>
                      </div>
@@ -828,24 +828,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     DO YOU HAVE DESIGNING PORTFOLIO?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Our designing portfolio is vast from logo designing to web designing services. Take a look!</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Graphic design</li>
+                              <li>Logo design</li>
+                              <li>Branding and identity design</li>
+                              <li>Print design </li>
+                              <li>Packaging design</li>
+                              <li>UI/UX design</li>
                            </ul>
                         </div>
                      </div>
@@ -854,24 +854,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     CAN YOU GIVE ME AN EXAMPLE OF ILLUSTRATION SERVICES?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>You can go through our portfolio to check out the latest illustration services by us. Take a look!</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Character illustration</li>
+                              <li>Book illustration</li>
+                              <li>Digital artwork</li>
+                              <li>Storyboard illustration</li>
+                              <li>Concept art</li>
+                              <li>Editorial illustration</li>
                            </ul>
                         </div>
                      </div>
@@ -897,27 +897,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>I got exceptional logo designs that crafted my whole brand identity.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah J.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -933,9 +915,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Impressive web development services that exceeded my expectations.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John S.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -951,9 +933,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>I got outstanding branding services that helped me in innovative designs.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily B.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>I got incredible illustration that brought captivating artworks to life.</p>
+
+                        <h6>Michael T.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -966,76 +966,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

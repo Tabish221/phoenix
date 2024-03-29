@@ -16,9 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Video</h1>
-                  <h2>Production</h2>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>VIDEO</h1>
+                  <h2>PRODUCTION</h2>
+                  <p>We are here to unlock the extreme powers of storytelling through our tailored video productions services to captivate your audience and bring vision to life!</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -193,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Reach out to the <span> right </span> people!</h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>LIGHTS. CAMERAS. <span> IMPACT!</span></h6>
+                     <p>We believe in creating and crafting a transformative power for visual storytelling. Our video productions services craft actual experiences on a profound level for amazing result driven tech. Our services range from your corporate videos to short films! We can do it all!</p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -243,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>We ensure creating maximum impact and formulating an emotional connection. We can inspire, aim, entertain, and use the trusted idea for bringing stories to life. We leave lasting impression that can transcend to the screen.</p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -806,24 +806,23 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                     Corporate Videos
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We help in elevating your brand’s image in your corporate videos where your audience is thoroughly engaged. We provide specifically tailored content that can promote your company’s values effectively. We can provide specialized polished videos that leave lasting impressions for your brand identities.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Brand Storytelling</li>
+                              <li>Executive Interviews</li>
+                              <li>Product Demonstrations</li>
+                              <li>Training Videos</li>
+                              <li>Company Culture Videos</li>
                            </ul>
                         </div>
                      </div>
@@ -832,24 +831,23 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     Commercial Production
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We make memorable impact for your target market with commercial production. Our captivating ads can drive extreme awareness and sales. For all the platforms, our team can deliver stunning commercials to compel action in all cases and provide exceptional results in form of popularity.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Concept Development</li>
+                              <li>Scriptwriting</li>
+                              <li>Casting and Talent Selection</li>
+                              <li>Location Scouting</li>
+                              <li>Post-Production Editing</li>
                            </ul>
                         </div>
                      </div>
@@ -858,24 +856,23 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     Event Coverage
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We make sure that each and every moment of your event is ensiled with the comprehensive details. Our event coverage services highlight each and every special moment. From conferences to product launches, our amazing videographers will deliver you the best of the best in our results.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Pre-Event Planning</li>
+                              <li>Multi-Camera Coverage</li>
+                              <li>Live Streaming</li>
+                              <li>Highlight Reels</li>
+                              <li>Post-Event Deliverables</li>
                            </ul>
                         </div>
                      </div>
@@ -901,27 +898,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Incredible attention to detail and a knack for storytelling! Our company's video produced by them surpassed all expectations.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah T.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -937,9 +916,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Their professionalism and creativity truly shone through in the videos they produced for our event. Highly recommended!</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John P.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -955,9 +934,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Impressive turnaround time and exceptional quality. Our commercial produced by them exceeded our wildest expectations.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily L.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>Their expertise in video production helped us convey our message with clarity and impact. Couldn't be happier with the results!</p>
+
+                        <h6>Michael S.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -970,76 +967,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

@@ -16,9 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Content</h1>
-                  <h2>Writing</h2>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>CONTENT</h1>
+                  <h2>WRITING</h2>
+                  <p>Specialized in crafting content with a clear story and a strong voice. We help elevation of your brands with distinctive words that can resonate with impact.</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -193,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Reach out to the <span> right </span> people!</h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>OUR CONTENT WRITING AND MARKETING SERVICES <span> BRINGING IMPACT WITH YOUR BRAND!</span></h6>
+                     <p>With our captivating content, we can help your brand unlock the power of specialized pattern in crafting compelling content and narratives. We help in engaging the audience with driven results. With the services we provide, your brand story can become a force unstoppable with constant authenticity and the level of maximized authority across multiple platforms. </p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -226,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>IGNITING YOUR BRAND’S NARRATIVE!</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -243,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>From captivating blog posts to social media content, we can deliver content that leaves a lasting impression. Our team has seasoned writers and marketers who ensure that your brand’s voice shines with your content. We can elevate the online presence of your brand where it speaks volumes.</p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -270,9 +270,7 @@
    <section class="contentSection1">
       <div class="container">
          <div class="contentSec1-hd mn-hd">
-            <h6>Things That Make Us The Best Content <span>Writing Company</span></h6>
-
-            <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet voluptatibus. Ea ipsum veniam sed veniam expedita aut magni architecto hic sequi deleniti et voluptatem minima aut sequi quaerat. Ad optio mollitia 33 omnis illo aut necessitatibus incidunt id voluptatibus eveniet a dolor quam non odit accusamus</p>
+            <h6>WHAT MAKES US THE BEST <span>CONTENT WRITING COMPANY?</span></h6>
          </div>
 
          <div class="contentSec1-main">
@@ -280,8 +278,8 @@
                <div class="col-md-6">
                   <div class="contentSec1-card">
                      <div class="contentSec1-cardCont">
-                        <h6>Experienced Writers</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Expertise across Industries</h6>
+                        <p>Our team has writers with diverse backgrounds that produces high quality content that can meet the needs of multiple industries and niches. </p>
                      </div>
 
                      <div class="contentSec1-cardIcon">
@@ -301,8 +299,8 @@
                      </div>
 
                      <div class="contentSec1-cardCont">
-                        <h6>Privacy</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Customized Solutions</h6>
+                        <p>We make sure that the unique demands of the clients are met where personalized content solutions are offered to them with brand objectives.</p>
                      </div>
                   </div>
                </div>
@@ -310,8 +308,8 @@
                <div class="col-md-6">
                   <div class="contentSec1-card">
                      <div class="contentSec1-cardCont">
-                        <h6>Affprdabolity</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>SEO Mastery</h6>
+                        <p>With the best SEO techniques, we make sure that your content resonates directly with your audience and shows in result pages.</p>
                      </div>
 
                      <div class="contentSec1-cardIcon">
@@ -331,8 +329,8 @@
                      </div>
 
                      <div class="contentSec1-cardCont">
-                        <h6>Custom Satisfaction</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Compelling Storytelling</h6>
+                        <p>We are masters I the art of storytelling to focus on narratives which can captivate the readers and also have a lasting impression.</p>
                      </div>
                   </div>
                </div>
@@ -341,8 +339,8 @@
                <div class="col-md-6">
                   <div class="contentSec1-card">
                      <div class="contentSec1-cardCont">
-                        <h6>24/7 support</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Attention to Detail</h6>
+                        <p>We make sure that all the components of the content such as grammar, tone, style, and even punctuations are reviewed.</p>
                      </div>
 
                      <div class="contentSec1-cardIcon">
@@ -363,7 +361,7 @@
 
                      <div class="contentSec1-cardCont">
                         <h6>Timely Delivery</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <p>We commit and meet our deadlines so that you can trust us to complete your tasks without any possible delay with quality assurance.</p>
                      </div>
                   </div>
                </div>
@@ -371,8 +369,8 @@
                <div class="col-md-6">
                   <div class="contentSec1-card">
                      <div class="contentSec1-cardCont">
-                        <h6>Personalized Approach</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Transparent Communication</h6>
+                        <p>We make sure that the communication is direct and honest, as we keep you informed at each stage in the content creation process.</p>
                      </div>
 
                      <div class="contentSec1-cardIcon">
@@ -397,8 +395,8 @@
                      </div>
 
                      <div class="contentSec1-cardCont">
-                        <h6>Guaranteed Refund</h6>
-                        <p>Lorem ipsum dolor sit amet. Qui voluptatem culpa ab accusantium illo et quod adipisci id eveniet</p>
+                        <h6>Client Satisfaction Guaranteed</h6>
+                        <p>Our top priority is client satisfaction as we go to all lengths to exceed your expectations and drive results for success at each rate.</p>
                      </div>
                   </div>
                </div>
@@ -485,278 +483,6 @@
          </div>
       </div>
    </section>
-
-   <!-- <section class="portfolioSection">
-      <div class="container">
-         <div class="portfolio-main">
-            <div class="row align-items-center">
-               <div class="col-md-5">
-                  <div class="portfolio-hd mn-hd">
-                     <h6>Our <span>Portfolio</span></h6>
-                  </div>
-               </div>
-
-               <div class="col-md-7">
-                  <div class="portfolio-nav">
-                     <ul>
-                        <li class="current" data-targetit="box-1">
-                           <a href="#">All</a>
-                        </li>
-
-                        <li data-targetit="box-2">
-                           <a href="#">Website</a>
-                        </li>
-
-                        <li data-targetit="box-3">
-                           <a href="#">Logo</a>
-                        </li>
-
-                        <li data-targetit="box-4">
-                           <a href="#">Branding</a>
-                        </li>
-
-                        <li data-targetit="box-5">
-                           <a href="#">Animation</a>
-                        </li>
-
-                        <li data-targetit="box-6">
-                           <a href="#">NFT</a>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-1 showfirst">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/wp/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/wp/pf1.png" />
-               </a>
-   
-               <a data-src="assets/images/wp/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/wp/pf2.png" />
-               </a>
-   
-               <a data-src="assets/images/wp/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/wp/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/wp/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/wp/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/wp/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/wp/pf5.png" />
-               </a>
-   
-               <a data-src="assets/images/wp/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/wp/pf6.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-2">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf1.png" />
-               </a>
-
-               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/smm/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf2.png" />
-               </a> 
-   
-               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf6.png" />
-               </a>
-
-               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/smm/pf5.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-3">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf1.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf2.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/smm/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/smm/pf5.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf6.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-4">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf1.png" />
-               </a>
-
-               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/smm/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf2.png" />
-               </a> 
-   
-               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf6.png" />
-               </a>
-               
-               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/smm/pf5.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-5">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf1.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf2.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/smm/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/smm/pf5.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf6.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-
-      <div class="box-6">
-         <div class="container-fluid p-0">
-            <div class="portfolio-gallery">
-               <a data-src="assets/images/smm/pf1.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf1.png" />
-               </a>
-
-               <a data-src="assets/images/smm/pf3.png" data-fancybox="homePortfolio" class="">
-                  <img src="assets/images/smm/pf3.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf2.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf2.png" />
-               </a> 
-   
-               <a data-src="assets/images/smm/pf4.png" data-fancybox="homePortfolio" class="horizontal">
-                  <img src="assets/images/smm/pf4.png" />
-               </a>
-   
-               <a data-src="assets/images/smm/pf6.png" data-fancybox="homePortfolio" class="big">
-                  <img src="assets/images/smm/pf6.png" />
-               </a>
-               
-               <a data-src="assets/images/smm/pf5.png" data-fancybox="homePortfolio">
-                  <img src="assets/images/smm/pf5.png" />
-               </a>
-            </div>
-   
-   
-            <div class="portfolio-btn mn-btn text-center">
-               <a href="#">
-                  <?php include("includes/btn-svg.php"); ?>
-                  View More
-               </a>
-            </div>
-         </div>
-      </div>
-   </section> -->
 
    <section class="packageSection">
       <div class="container">
@@ -1025,24 +751,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                  WHAT CONTENT WRITING SERVICES I CAN GET?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Our content writing services can have a diverse range of solutions to meet specific needs. Whether you require a blog, or social media content, our team of skilled professionals can deliver high-quality content to resonate with your target audience. It can help you craft effective brand messages for adding value.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Blog Posts</li>
+                              <li>Website Copy</li>
+                              <li>Product Descriptions</li>
+                              <li>Press Releases</li>
+                              <li>Newsletters</li>
+                              <li>Social Media Content</li>
                            </ul>
                         </div>
                      </div>
@@ -1051,24 +777,23 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     WHAT CONTENT MARKETING SERVICES I CAN GET?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Content marketing services that we provide can maximize your brand’s online presence and drive engagement. We bring strategic content strategy development with identification of objectives to meet all aspects of content creation, ideation, and execution as we amplify the content’s reach and impact.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Content Strategy Development</li>
+                              <li>Content Creation Management</li>
+                              <li>Email Marketing Campaigns</li>
+                              <li>Content Distribution and Promotion</li>
+                              <li>Content Calendar Planning</li>
                            </ul>
                         </div>
                      </div>
@@ -1077,24 +802,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     ARE CONTENT WRITING SERVICES SEO OPTIMIZED?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Our content writing services are providing full SEO optimization services. It can help in providing the SEO practices through keyword research and strategic approach for increasing visibility on search engine result pages. We ensure proper meta-tags, high quality backlinks and improve search rankings. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Keyword Research</li>
+                              <li>On-page Optimization</li>
+                              <li>SEO-friendly Content Writing</li>
+                              <li>Meta Tags Optimization</li>
+                              <li>Content Auditing</li>
+                              <li>SEO Strategy Development</li>
                            </ul>
                         </div>
                      </div>
@@ -1120,27 +845,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>The team at Phoenix Marketing Services highlighted the brand’s voice with content writing services.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah J.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1156,9 +863,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>I got extremely impressed with content marketing services that helped me reach new heights.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>David S.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1174,9 +881,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>My website now boasts through engaging copies by Phoenix Marketing Services to highlight essence. </p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Michael T.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>With Phoenix Marketing Services, SEO optimized content at my web increased online brand visibility.</p>
+
+                        <h6>Jessica P.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1189,77 +914,8 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
-
+   <?php include("includes/contact-section.php"); ?>
+   
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>
 </body>

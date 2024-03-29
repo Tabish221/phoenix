@@ -16,11 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Social</h1>
+                  <h1>SOCIAL</h1>
                   <h2>MEDIA <span> MARKETING</span></h2>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                     dolorum
-                     quia vel officia doloremque! Ut labore incidunt et </p>
+                  <p>We make sure that your business is elevated by its social presence where we ignite constant engagement and convert leads into results.</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -195,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Reach out to the <span> right </span> people!</h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>CRAFTING CONNECTIONS AND FOSTERING  <span> ENGAGEMENT THROUGH SOCIAL MEDIA!</span></h6>
+                     <p>Social media has become an indispensable tool for businesses so that it can connect with the audiences to build constant brand awareness and driving growth. With the power of social media, we engage your clients and customers to drive tangible results. With strategic content and community handling, we harness the potential of gathering potential from your social media.</p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -228,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>MAKING SOCIAL MEDIA MARKETING YOUR BIGGEST ASSET!</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -245,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>We can help in increasing your brand visibility and increasing the reach of your platforms for better reach and engagement for better target audience. We deliver tailored social media marketing solutions that are specifically designed for driving sustainable growth.</p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -808,24 +806,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                     WHICH SOCIAL MEDIA SERVICES ARE YOU PROVIDING?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We offer comprehensive social media services which can meet specific needs of customers. Our services include social media strategy development, social media management, community engagement, paid social media advertising and analytics for reporting and audits and consulting.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Social media strategy development</li>
+                              <li>Content creation and curation</li>
+                              <li>Social media management</li>
+                              <li>Community engagement</li>
+                              <li>Paid social media advertising</li>
+                              <li>Social media analytics and reporting</li>
                            </ul>
                         </div>
                      </div>
@@ -834,24 +832,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     HOW YOU HANDLE CONTENT CREATION AND CURATION?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Our approach for content creation can help in tailoring brand’s voice and objectives for understanding the target audience better. We create high quality content to engage with audiences directly. Our relevant audience provides value and variety to the clients with consistency.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Blog post writing</li>
+                              <li>Graphic design for social media posts</li>
+                              <li>Video creation and editing</li>
+                              <li>Infographics design</li>
+                              <li>Copywriting for social media captions</li>
+                              <li>Content calendar planning</li>
                            </ul>
                         </div>
                      </div>
@@ -860,24 +858,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     DO YOU DO SOCIAL MEDIA AUDITS?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Yes, our social media audit services help in evaluation and optimization for social media presence. These audits are helpful for social media profiles and performance analysis through engagement rate assessments. We also provide recommendations to improve social media strategy.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Profile evaluation and optimization</li>
+                              <li>Content performance analysis</li>
+                              <li>Audience demographics review</li>
+                              <li>Competitor analysis</li>
+                              <li>Hashtag analysis</li>
+                              <li>Engagement rate assessment</li>
                            </ul>
                         </div>
                      </div>
@@ -903,27 +901,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Exceptional Services. Our social media presence was given a literal boost with increasing brand’s visibility.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah J.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -939,9 +919,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Attaining social media marketing services by Phoenix Digital Marketing has been a game changer for us. </p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John S.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -957,9 +937,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>This company crafted amazing content which related with my target audience and increased reach significantly.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily B.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>It was a fantastic experience attaining social media marketing services to align with social media goals and success.</p>
+
+                        <h6>Ray H.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -972,76 +970,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

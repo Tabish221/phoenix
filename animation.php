@@ -16,8 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Animation</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>ANIMATION</h1>
+                  <h2>SERVICES</h2>
+                  <p>We assist your brand in developing the magic of animation through animating your vision and sparking emotions with our results!</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -192,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Keen to details, <span> amazing artworks!</span></h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>FRAME BY FRAME. <span> WE BRING UTMOST REALITY OT LIFE!</span></h6>
+                     <p>Animation services can help your brand to captivate the viewers and inspire them. At Phoenix Marketing Services, our team is specialized in creating visual experiences that can transcend the ordinary. From captivating character animations to motion graphics, we can help you get engaged in amazing results. From cartoons, explainer visuals to amazing visual effects sequence, we exceed expectations to ignite your expectations. We can bring your stories to reality and set your brand apart. </p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -225,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>DREAMS INTO REALITIES</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -242,14 +243,14 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>Our services will give your brand compelling animated stories which are hard to forget by your viewers and clients. We are here to transform the image of your brand and move masterpieces to your galleries. We can embark creative journeys and develop masterpieces to inspire and enchant audiences worldwide. </p>
                            <div class="">
-                           <a href="">
-                              <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
-                                 <path id="Path_1682" data-name="Path 1682" d="M10.074,18.149A8.074,8.074,0,1,0,2,10.074,8.074,8.074,0,0,0,10.074,18.149Z" transform="translate(-1.25 -1.25)" fill="none" stroke="#fffdfb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-                              </svg>
-                              Let's Get Started
-                           </a>
+                              <a href="">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
+                                    <path id="Path_1682" data-name="Path 1682" d="M10.074,18.149A8.074,8.074,0,1,0,2,10.074,8.074,8.074,0,0,0,10.074,18.149Z" transform="translate(-1.25 -1.25)" fill="none" stroke="#fffdfb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+                                 </svg>
+                                 Let's Get Started
+                              </a>
                            </div>
                         </div>
                         </div>
@@ -882,24 +883,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                  CAN MY PROJECT BENEFIT FROM 2D ANIMATION?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>2D Animations are extremely versatile and suitable for projects which can include explainer videos, educational content, storytelling and commercials. If your brand falls in these categories, it is the perfect solution for you in the relative trends.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Storyboarding</li>
+                              <li>Character Design</li>
+                              <li>Background Design</li>
+                              <li>Animation Production</li>
+                              <li>Motion Graphics</li>
+                              <li>Whiteboard Animation</li>
                            </ul>
                         </div>
                      </div>
@@ -908,24 +909,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     HOW CHARACTER ANIMATION CAN ENHANCE STORYTELLING?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Character animation can help add depth for your stories and add personality to the characters with their movements as well as expressions. It is helpful for brands to form emotional connections with audiences, making the stories more engaging.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Character Design</li>
+                              <li>Character Rigging</li>
+                              <li>Keyframe Animation</li>
+                              <li>Facial Animation</li>
+                              <li>Lip Syncing</li>
+                              <li>Movement Animation</li>
                            </ul>
                         </div>
                      </div>
@@ -934,24 +935,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     WHAT ROLES WILL VISUAL EFFECTS PLAY IN VISUAL APPEAL?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Visual effects can add excitement and realism to your project by the incorporation of multiple elements. It can add CGI, compositing and motion graphics. It can elevate overall production value as well as add more captivating visual experiences.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>CGI (Computer-Generated Imagery)</li>
+                              <li>Compositing</li>
+                              <li>Motion Tracking</li>
+                              <li>Green Screen Keying</li>
+                              <li>Matte Painting</li>
+                              <li>Rotoscoping</li>
                            </ul>
                         </div>
                      </div>
@@ -977,27 +978,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Stunning animations were given to me that brought my project to absolute power.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah W.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1013,9 +996,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>My results given to me had a blend of professionalism and maximum creativity at its finest.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John D.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1031,9 +1014,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Attention to detail was provided in each and every frame of the animations sent to me.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily L.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>My work animations got done at an outstanding levels that exceeded the expectations.</p>
+
+                        <h6>Alex K.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1046,76 +1047,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

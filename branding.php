@@ -16,8 +16,9 @@
          <div class="row align-items-center">
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
-                  <h1>Branding</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h1>BRANDING</h1>
+                  <h2>SERVICES</h2>
+                  <p>We thrive at branding strategies for utmost creation of inspiring legacies and crafting identities. Our services can help in betterment for your brand strategies.</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -192,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Reach out to the <span> right </span> people!</h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>ELEVATING YOUR BRANDS WITH <span> BRANDING SERVICES!</span></h6>
+                     <p>We are here to inspire connections through your branding. The branding landscape is extremely competitive where making a lasting impression is important. At Phoenix Marketing Services, we are present to make compelling brand identities that can resonate with audiences for driving meaningful connections. With strategic brand development, we can help in creative storytelling. Our team is dedicated for bringing the vision of your brand into digital reality. Our focus is on authenticity and innovation for your brand. We collaborate closely for creating brand experiences that can set you apart from the competition. We will be transformative partners for newer heights and lasting connections to be formulated with the audiences.</p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -225,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>BRAND STRATEGIES TAILORED FOR YOU!</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -242,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>Every brand has a story to tell. We are specializing in nurturing brands to cultivate brand identities for crafting and captivating narratives. Our team will bloom your brand so that your audience remembers it directly by its creative nature.</p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -882,24 +883,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                  CAN YOU DEVELOP BRAND STRATEGY FOR ME?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Yes! Our team specializes in drafting strategies that are unique as per your objectives. We work closely with you to define the vision of your brand, mission, values along with the target audiences and competitive landscape. We help in providing strategies that align with your goals and brand success. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Brand Identity Development</li>
+                              <li>Brand Positioning</li>
+                              <li>Target Audience Identification</li>
+                              <li>Brand Messaging and Voice Development</li>
+                              <li>Competitor Analysis</li>
+                              <li>Market Research and Insights</li>
                            </ul>
                         </div>
                      </div>
@@ -908,24 +909,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     IS BRAND AUDIT AND ANALYSIS POSSIBLE?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Brand Audit can help in evaluating the current standing of your brand. Our team can conduct thorough examination of your identity, visual assets and the perception your brand holds in the market. Our actionable insights and recommendations can help your brand stand out in the upcoming future. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Brand Identity Audit<li>
+                              <li>Brand Messaging Audit<li>
+                              <li>Visual Branding Audit<li>
+                              <li>Brand Communication Audit<li>
+                              <li>Brand Positioning Audit<li>
+                              <li>Brand Equity Audit<li>
                            </ul>
                         </div>
                      </div>
@@ -934,24 +935,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     CAN I GET BRAND CONSULTATION & ADVISORY?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>Absolutely! We offer brand consultation services that can help in supporting brand journey. If you are just starting out your business, we can help you correctly define the objective of your brand and provide the identity that you are looking for. Our assistance can help your brand growth and success in the future.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Brand Strategy Consultation</li>
+                              <li>Brand Positioning Consultation</li>
+                              <li>Brand Identity Consultation</li>
+                              <li>Brand Messaging Consultation</li>
+                              <li>Target Audience Consultation</li>
+                              <li>Competitor Analysis Consultation</li>
                            </ul>
                         </div>
                      </div>
@@ -977,27 +978,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>We were provided by exceptional branding strategy that has transformed my business overnight.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah W.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1013,9 +996,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Innovative branding solutions have set my brand apart provided by Phoenix marketing Solutions.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>John D.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1031,9 +1014,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>I am highly impressed by the level of dedication as well as the creativity provided for my brand development.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily L.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>The outstanding branding services along with the informative consultation session exceeded my expectations.</p>
+
+                        <h6>Alex K.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1046,77 +1047,8 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
-
+   <?php include("includes/contact-section.php"); ?>
+   
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>
 </body>

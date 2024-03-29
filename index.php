@@ -18,9 +18,7 @@
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
                   <h1>Phoenix</h1>
                   <h2>MARKETING <span>EXPERTS</span></h2>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                     dolorum
-                     quia vel officia doloremque! Ut labore incidunt et </p>
+                  <p>Transform the success of your business and ignite your potential digital growth with us!</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -465,10 +463,8 @@
       <div class="container">
          <div class="col-md-8">
             <div class="creatingSec-hd mn-hd">
-               <h6>Creating Digital Success <em>Stories Everyday</em></h6>
-               <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                  dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque
-                  facere.</p>
+               <h6>Let Us Draft Legendary Ideas <em> for you every day!</em></h6>
+               <p>We help you in elevation of your brands where your digital dreams take flight. Crafting digital magic through multiple services, we turn your ideas in online success stories.</p>
             </div>
          </div>
       </div>
@@ -889,7 +885,7 @@
    <section class="faqSection">
       <div class="container">
          <div class="faqSec-hd mn-hd">
-            <h6><em>HOW CAN WE HELP?</em></h6>
+            <h6><em>How Can We Help?</em></h6>
          </div>
 
          <div class="faqSec-main">
@@ -902,18 +898,18 @@
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>We make sure that your website remains the cornerstone for your online presence. At Phoenix Marketing Experts, we develop websites that captivate users and also drive excelling results for you! Our designs and top-notch functionality and amazing designs bring your imagination to life and drive better results for you.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>HOW CAN WE HELP?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Custom Web Designs</li>
+                              <li>Responsive Developments</li>
+                              <li>E-Commerce Solutions</li>
+                              <li>Content Management Systems</li>
+                              <li>Search Engine Optimization</li>
+                              <li>Landing Page Designs</li>
                            </ul>
                         </div>
                      </div>
@@ -922,24 +918,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     Branding
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>The marketplace is crowded! Effective branding is the only solution to leave a lasting impression! We specialize in managing your brand identities to relate with your respective audiences and drive connections. From taglines to strategies, we work closely with the brand image to create experiences that speaks your value.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>HOW CAN WE HELP?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Brand Strategy Development</li>
+                              <li>Logo Design & Identity</li>
+                              <li>Brand Messaging and Storytelling</li>
+                              <li>Brand Experience Design</li>
+                              <li>Brand Refresh</li>
+                              <li>Brand Collateral Design</li>
                            </ul>
                         </div>
                      </div>
@@ -948,24 +944,25 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     SEO & PPC
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>In the digital landscape today, being visible is important. Our tailored approach will make sure that your website ranks on top of the search engine results along with attracting high-quality traffic. Our aim every day is to convert your leads into sales! Our SEO and PPC campaigns are designed as per the best strategic approach to assist you!</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>HOW CAN WE HELP?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>SEO Audits & Strategy</li>
+                              <li>Keyword Research & Optimization</li>
+                              <li>On-Page SEO Optimization</li>
+                              <li>Off-Page SEO </li>
+                              <li>Link Building</li>
+                              <li>Landing Page Optimization</li>
+                              <li>Performance Tracking & Reporting</li>
                            </ul>
                         </div>
                      </div>
@@ -991,27 +988,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Our online visibility boosted like magic in just 6 months! All thanks to Phoenix Marketing Experts!</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>Sarah Johnson</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1027,9 +1006,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Result driven PPC Campaigns was beyond my expectations in terms of the exceptional results!</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>David Miller</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1045,9 +1024,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Genius at branding strategies! Our online presence has reached its utmost prime right now!</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Emily Davis</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>Perfection blended in our website design by Phoenix Marketing Experts. Highly Recommended!</p>
+
+                        <h6>Michael Thompson</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -1060,76 +1057,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>

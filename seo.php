@@ -17,9 +17,8 @@
             <div class="col-md-7 position-relative">
                <div class="mainBanner-cont wow fadeInLeft" data-wow-delay="0.5s">
                   <h1>SEO</h1>
-                  <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut
-                     dolorum
-                     quia vel officia doloremque! Ut labore incidunt et </p>
+                  <h2>SERVICES</h2>
+                  <p>We can unlock online potential to elevate with SEO mastery with driving optimum digital success and dominating search rankings.</p>
 
                   <a href="#" class="btn theme-btn popstatic">
                      <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -194,8 +193,8 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-topCont">
-                     <h6>Boost your digital <span> presence </span> people <span>!</span></h6>
-                     <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore laboriosam.</p>
+                     <h6>IGNITING YOUR WEBSITE’S <span> SEO POTENTIAL</span></h6>
+                     <p>We help you experience the impact of our SEO services in the current digital landscape to reach visibility on search engines for your business success. Our team of SEO specialists can help intricate strategies and technologies for propelling the website on search engine result pages. With comprehensive keyword research, we tailor our approach to suit your unique objectives.</p>
       
                      <div class="groupBtn">
                         <a href="#">
@@ -227,7 +226,7 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="seoSec1-second-first">
-                     <h6>Your search engine optimization partner.</h6>
+                     <h6>UNLEASHING THE SEO POWERS FOR YOU!</h6>
 
                      <ul>
                         <li>On-Page Services</li>
@@ -244,7 +243,7 @@
                      <div class="col-md-7">
                         <div class="seoSec1-second-main">
                         <div class="seoSec1-second-second">
-                           <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus aut dolorum quia vel officia doloremque! Ut labore incidunt et aliquid voluptas et placeat quod eos neque facere. Non laborum harum in laudantium quos sit nihil molestiae est inventore</p>
+                           <p>We elevate your current online presence and drive growth on every day basis. You can unlock the potential of all your online endeavors with provision of complete on-page and off-page optimization results.</p>
                            <div class="">
                            <a href="">
                               <svg xmlns="http://www.w3.org/2000/svg" width="17.649" height="17.649" viewBox="0 0 17.649 17.649">
@@ -279,8 +278,8 @@
                      <img src="assets/images/seo-sec2/1.png" alt="">
                      <span class="mainCont-dot"></span>
                      </div>
-                     <span>Breif</span>
-                     <p>We begin the process by identifying and discussing your requirements. Then, our team studies your project and offers the best services to turn your project into a great success.</p>
+                     <span>Keyword Research</span>
+                     <p>Identification of relevant keywords, keyword analysis competitiveness and keyword selection.</p>
                   </div>
                </div>
 
@@ -290,8 +289,8 @@
                      <img src="assets/images/seo-sec2/2.png" alt="">
                      <span class="mainCont-dot"></span>
                      </div>
-                     <span>Research & Create</span>
-                     <p>We begin the process by identifying and discussing your requirements. Then, our team studies your project and offers the best services to turn your project into a great success.</p>
+                     <span>On-Page Optimization</span>
+                     <p>Title tags and Meta descriptions. Optimization of content. URL structure. Internal linking.</p>
                   </div>
                </div>
 
@@ -301,8 +300,8 @@
                      <img src="assets/images/seo-sec2/3.png" alt="">
                      <span class="mainCont-dot"></span>
                      </div>
-                     <span>Analyze & Optimize</span>
-                     <p>We begin the process by identifying and discussing your requirements. Then, our team studies your project and offers the best services to turn your project into a great success.</p>
+                     <span>Off-Page Optimization</span>
+                     <p>Link building. Social signals for engagement improvement. Online reputation management.</p>
                   </div>
                </div>
 
@@ -311,8 +310,8 @@
                      <div class="seoSection2-mainImg">
                         <img src="assets/images/seo-sec2/4.png" alt="">
                      </div>
-                     <span>Support & Submissin</span>
-                     <p>We begin the process by identifying and discussing your requirements. Then, our team studies your project and offers the best services to turn your project into a great success.</p>
+                     <span>Monitoring & Analysis</span>
+                     <p>Tracking performance metrics. Analysis of results as per trends. Continual optimization.</p>
                   </div>
                </div>
                
@@ -588,24 +587,24 @@
             <ul class="accordion">
                <li class="first active">
                   <div class="acc_title">
-                  Website Design & Development
+                     HOW CAN WE DO KEYWORD RESEARCH?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>For the SEO, keyword research plays the foundation role for optimization efforts. It involves understanding of the search behavior as per phrases of target audience uses to seek industry relevant information as per search volume and competitiveness for prioritizing keywords effectively.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Comprehensive keyword analysis</li>
+                              <li>Target keyword identification</li>
+                              <li>Competitor keyword analysis</li>
+                              <li>Long-tail keyword research</li>
+                              <li>Keyword difficulty assessment</li>
+                              <li>Search volume estimation</li>
                            </ul>
                         </div>
                      </div>
@@ -614,24 +613,24 @@
 
                <li>
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     HOW DO YOU SO ON-PAGE OPTIMIZATION?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>The integration of natural keywords take place in on-page optimization. It drafts SEO friendly URLs so that page’s content is described accurately to strengthen the site’s optimization efforts where website remains well-positioned to attract traffic and rank as per the prominent target audience.</p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Title tag optimization</li>
+                              <li>Meta description optimization</li>
+                              <li>Content optimization</li>
+                              <li>Heading tags optimization (H1, H2, etc.)</li>
+                              <li>Image optimization (ALT tags)</li>
+                              <li>URL structure optimization</li>
                            </ul>
                         </div>
                      </div>
@@ -640,24 +639,24 @@
 
                <li class="last">
                   <div class="acc_title">
-                     Digital Transformation & Technology
+                     HOW DO YOU DO OFF-PAGE OPTIMIZATION?
                      <i class="far fa-plus"></i>
                   </div>
                   <div class="acc_desc" style="display: none;">
                      <div class="row">
                         <div class="col-md-8">
-                           <p>At Artify Productions, we offer a wide range of video production services, including
-                              promotional videos, corporate videos, event coverage, product demonstrations, music videos,
-                              and more. Whether it's a small project or a grand vision, we've got you covered.</p>
+                           <p>After the identification of target keywords, on-page optimization enhances the role in website’s authority and the credibility for search engines. It can primarily improve the high acquiring backlinks from different reputable websites where content becomes valuable for better ranking. </p>
                         </div>
 
                         <div class="col-md-4">
-                           <h4>How we help</h4>
+                           <h4>How Can We Help?</h4>
                            <ul>
-                              <li>Whether we’re filming in one location or several</li>
-                              <li>How long we need to allow for filming and how large a crew we need</li>
-                              <li>How complex the edited video is – especially if it involves animated elements</li>
-                              <li>Whether we’re producing a single video or several related videos</li>
+                              <li>Link building</li>
+                              <li>Social media marketing</li>
+                              <li>Online reputation management</li>
+                              <li>Influencer outreach</li>
+                              <li>Guest blogging</li>
+                              <li>Forum participation</li>
                            </ul>
                         </div>
                      </div>
@@ -683,27 +682,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>SEO Expertise provided by Phoenix Digital Marketing helped me skyrocket my website with organic traffic.</p>
 
-                        <h6>JHON SMITH</h6>
-
-                        <div class="icon">
-                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-               <div class="col-md-6">
-                  <div class="reviewSec-card">
-                     <div class="reviewSec-cardImg">
-                        <img src="assets/images/user.png" alt="User">
-                     </div>
-
-                     <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
-
-                        <h6>JHON SMITH</h6>
+                        <h6>John D.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -719,9 +700,9 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>Choosing this company was fulfilling for my SEO needs as it was the best decision that I made for my approach.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Alex J.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -737,9 +718,27 @@
                      </div>
 
                      <div class="reviewSec-cardCont">
-                        <p>Lorem ipsum dolor sit amet. Aut iure omnis qui quam quasi ut suscipit ducimus et ipsum ducimus.</p>
+                        <p>The team at Phoenix Digital Marketing understood the complexities of SEO needs and brought improvements.</p>
 
-                        <h6>JHON SMITH</h6>
+                        <h6>Valerie Q.</h6>
+
+                        <div class="icon">
+                           <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-6">
+                  <div class="reviewSec-card">
+                     <div class="reviewSec-cardImg">
+                        <img src="assets/images/user.png" alt="User">
+                     </div>
+
+                     <div class="reviewSec-cardCont">
+                        <p>As a small business owner, online presence through SEO optimization was vital to me. Thanks to this company.</p>
+
+                        <h6>Cal H.</h6>
 
                         <div class="icon">
                            <img src="assets/images/google-verified-reviews.png" alt="Google Verified Reviews">
@@ -752,76 +751,7 @@
       </div>
    </section>
 
-   <section class="contactSection">
-      <div class="container">
-         <div class="contactSec-hd mn-hd">
-            <h6>Contact <em>Us</em></h6>
-         </div>
-
-         <div class="row">
-            <div class="col-md-6">
-               <div class="contactSec-cont mn-hd">
-                  <h4>Brew a cup and grab a seat...</h4>
-                  <h6><em>Fill Out The Form And</em> We’ll Get In Touch</h6>
-               </div>
-            </div>
-
-            <div class="col-md-6">
-               <div class="contactSec-form">
-                  <form>
-                     <div class="row">
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Full Name">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Telephone (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="email" placeholder="Email">
-                           </div>
-                        </div>
-
-                        <div class="col-md-6">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Company (Optional)">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formInput">
-                              <input type="text" placeholder="Message">
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formCheck">
-                              <input type="checkbox" name="agree" id="agree">
-                              <label for="agree">I would like to receive the Idea Rocket Newsletter</label>
-                           </div>
-                        </div>
-
-                        <div class="col-md-12">
-                           <div class="contactSec-formBtn">
-                              <button>SEND</button>
-                           </div>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-
-
-
+   <?php include("includes/contact-section.php"); ?>
 
    <?php include("includes/footer.php"); ?>
    <?php include("includes/scripts.php"); ?>
