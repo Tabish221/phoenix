@@ -550,7 +550,10 @@ header {
 .menu li {
   display: inline-block;
   vertical-align: middle;
-  padding-left: 35px;
+  padding-right: 35px;
+}
+.menu li.last {
+  padding-right: 0;
 }
 
 .menu li a {
@@ -793,11 +796,11 @@ ul.dropdown li a:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   position: relative;
-  padding: 150px 5vw 50px;
+  padding: 260px 5vw 100px;
 }
 .mainBanner .mainBanner-cont {
   position: relative;
@@ -971,7 +974,10 @@ ul.dropdown li a:hover {
 }
 /* PORTFOLIO */
 .portfolioSection {
-  padding: 60px 0;
+  padding: 60px 0 120px;
+}
+.portfolioSection .portfolio-btn {
+  display: none;
 }
 
 .mn-hd h6 {
@@ -1097,21 +1103,6 @@ ul.dropdown li a:hover {
   background-image: url(../images/creatingSec-bg.png);
   padding-top: 154px;
   position: relative;
-}
-.creatingSection::after {
-  content: "";
-  width: 33.33%;
-  height: 100%;
-  background-image: url(../images/creating-bg-after.png);
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-  right: 0;
-  top: 0;
-  margin: auto;
-  -o-object-fit: contain;
-     object-fit: contain;
 }
 .creatingSection .creatingSec-hd {
   padding-bottom: 180px;
@@ -1314,6 +1305,7 @@ ul.dropdown li a:hover {
 }
 .packageSection .packageSec-footer {
   padding-top: 65px;
+  display: none;
 }
 .packageSection .packageSec-footer .partner-slider img {
   height: 80px;
@@ -1646,6 +1638,7 @@ footer .widget ol li a {
   position: absolute;
   left: -40%;
   top: 0;
+  pointer-events: none;
 }
 .seoSection1 .seoSec1-main {
   padding-top: 230px;
@@ -1660,6 +1653,7 @@ footer .widget ol li a {
   color: #FFFDFB;
 }
 .seoSection1 .seoSec1-main .seoSec1-topCont h6 span {
+  display: inline;
   color: #f0812a;
 }
 .seoSection1 .seoSec1-main .seoSec1-topCont p {
@@ -1749,6 +1743,7 @@ footer .widget ol li a {
   top: -320px;
   right: 20px;
   max-width: 30vw;
+  pointer-events: none;
 }
 
 .seoSection2 {
@@ -2020,6 +2015,629 @@ footer .widget ol li a {
   display: block;
 }
 
+@media (max-width: 1660px) {
+  .marqueeSection h6 {
+    font-size: 36px;
+  }
+  .marqueeSection ul li {
+    padding: 8px 0;
+  }
+  .marqueeSection ul {
+    gap: 40px;
+  }
+  .marquee, .marquee1 {
+    height: 50px;
+  }
+  .mainBanner {
+    min-height: 1px;
+    padding: 220px 5vw 60px;
+  }
+  .mainBanner-cont h1 {
+    font-size: 75px;
+  }
+  .mainBanner-cont h2 {
+    font-size: 38px;
+  }
+  .mainBanner-cont p {
+    font-size: 16px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-right: 0px;
+    width: 80%;
+  }
+  .mainBanner-cont a.btn {
+    font-size: 14px;
+    padding: 12px 30px 12px 30px;
+    gap: 10px;
+  }
+  .mainBanner-cont .extara {
+    width: 180px;
+    height: 140px;
+    top: -100px;
+    right: -60px;
+  }
+  .portfolio-gallery {
+    grid-gap: 15px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card h5 {
+    font-size: 20px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card p {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .mn-hd h6 {
+    font-size: 38px;
+  }
+  .creatingSection .creatingSec-hd {
+    padding-bottom: 80px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-img img {
+    width: 100%;
+  }
+  .aboutSection1 .aboutSec1-cont {
+    gap: 20px;
+  }
+  .creatingSection {
+    padding-top: 90px;
+  }
+  .creatingSection .creatingSec-main {
+    padding-right: 10px;
+  }
+  .packageSection {
+    padding: 60px 0 60px;
+  }
+  .faqSection {
+    padding: 60px 0;
+  }
+  .faqSection .faqSec-hd {
+    padding-bottom: 40px;
+  }
+  .contactSection .contactSec-hd {
+    padding-bottom: 50px;
+  }
+  .reviewSection .reviewSec-hd {
+    padding-bottom: 120px;
+  }
+  .reviewSection .reviewSec-main .row {
+    row-gap: 120px;
+  }
+  .conatctSectionPage .conatctSecP-cont h6.sub {
+    font-size: 35px;
+  }
+  .conatctSectionPage .conatctSecP-cont h4 {
+    font-size: 24px;
+    line-height: 1.2;
+    padding: 20px 0 12px 0;
+  }
+  .conatctSectionPage .conatctSecP-form .row {
+    row-gap: 15px;
+  }
+  .conatctSectionPage .conatctSecP-form input {
+    height: 50px;
+    font-size: 14px;
+    padding: 10px 15px;
+  }
+  .conatctSectionPage .conatctSecP-form label {
+    gap: 10px;
+    font-size: 16px;
+  }
+  .conatctSectionPage .conatctSecP-form label input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+    padding: 0;
+  }
+  .conatctSectionPage .conatctSecP-form input[type=submit], .conatctSectionPage .conatctSecP-form button {
+    font-size: 14px;
+    padding: 15px 50px;
+  }
+  .conatctSectionPage {
+    padding: 80px 5vw 80px;
+  }
+  .seoSection1 .seoSec1-main .seoSec1-topCont h6 {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-third {
+    position: absolute;
+    top: -250px;
+    right: 10px;
+    max-width: 23vw;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-first h6 {
+    font-size: 22px;
+    padding-bottom: 30px;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-first ul {
+    gap: 20px;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-first ul li {
+    font-size: 16px;
+  }
+  .seoSection1 .seoSec1-main .seoSec1-mainImg {
+    right: 450px;
+    width: 280px;
+  }
+  .seoSection1 .seoSec1-main {
+    padding-top: 120px;
+    padding-bottom: 50px;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-second p {
+    font-size: 15px;
+    line-height: 1.2;
+    padding-bottom: 30px;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-second a {
+    gap: 10px;
+    font-size: 15px;
+    padding: 12px 25px;
+  }
+  .seoSection1 {
+    padding-bottom: 40px;
+  }
+}
+@media (max-width: 1440px) {
+  .header-btn {
+    gap: 15px;
+  }
+  .header-btn a {
+    gap: 6px;
+    height: 40px;
+    padding: 8px 20px;
+  }
+  .mainBanner-cont h1 {
+    font-size: 60px;
+  }
+  .mainBanner-cont h2 {
+    font-size: 30px;
+  }
+  .portfolioSection {
+    padding: 60px 0 80px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card {
+    padding: 40px 15px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card h5 {
+    font-size: 16px;
+  }
+  .packageSection .packageSec-save {
+    background-color: #5E2263;
+    padding: 40px 20px 20px;
+  }
+  .packageSection .packageSec-save h4 {
+    font-size: 18px;
+  }
+  .packageSection .packageSec-save h5 {
+    font-size: 28px;
+  }
+  .packageSection .packageSec-save p {
+    font-size: 14px;
+  }
+  .packageSection .packageSec-card {
+    padding: 30px 15px 30px;
+  }
+  .packageSection .packageSec-card h5 {
+    font-size: 18px;
+  }
+  .packageSection .packageSec-card h6 {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+  .packageSection .packageSec-card li {
+    font-size: 14px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+  }
+  .packageSection .packageSec-card a {
+    font-size: 14px;
+    padding: 10px 12px;
+    height: 40px;
+  }
+  .contactSection .contactSec-cont {
+    padding-right: 30px;
+  }
+  .contactSection .contactSec-cont h6 {
+    padding-right: 0px;
+  }
+  .contactSection .contactSec-cont h4 {
+    font-size: 22px;
+  }
+  .mn-hd h6 {
+    font-size: 34px;
+  }
+  footer .widget h6 {
+    font-size: 22px;
+  }
+  footer .widget ul li {
+    padding-bottom: 15px;
+    position: relative;
+  }
+  footer .widget label {
+    font-size: 14px;
+  }
+  footer .widget input {
+    padding: 15px 15px;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  footer .widget button {
+    font-size: 14px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+  }
+  footer .widget a {
+    font-size: 14px;
+    line-height: 1;
+  }
+  footer .widget ul li a {
+    padding-left: 15px;
+  }
+  .contactSection {
+    padding: 60px 0 30px;
+  }
+  footer {
+    padding: 30px 0 30px;
+  }
+  .copyright p, .copyright a, .copyright span {
+    font-size: 14px;
+  }
+  .reviewSection .reviewSec-main .reviewSec-card {
+    border-radius: 10px;
+    padding: 0 30px 10px;
+  }
+  .accordion li .acc_desc h4 {
+    font-size: 20px;
+  }
+  .accordion li .acc_desc ul li {
+    padding-bottom: 7px;
+    font-size: 14px;
+    line-height: 1.2;
+  }
+  .accordion li .acc_desc p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .mainBanner .mainBanner-cont {
+    min-width: 70%;
+  }
+  .marqueeSection h6 {
+    font-size: 26px;
+  }
+  .marqueeSection h6::before {
+    width: 40px;
+    height: 4px;
+    border-radius: 2px;
+  }
+  .portfolio-gallery {
+    grid-auto-rows: 250px;
+  }
+  .seoSection1 .seoSec1-main .seoSec1-topCont h6 {
+    font-size: 30px;
+    line-height: 1.1;
+  }
+  .seoSection1 .seoSec1-main .seoSec1-mainImg {
+    right: 35%;
+    width: 200px;
+  }
+  .ppcSection3 .ppcSec3-cont .main-cont .ppcSec3-heading h5 {
+    font-size: 45px;
+    line-height: 0.9;
+  }
+  .contentSection1 .contentSec1-main .contentSec1-card {
+    border-radius: 5px;
+    padding: 25px 0px 25px 25px;
+    gap: 15px;
+  }
+  .contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardCont p {
+    font-size: 15px;
+    line-height: 1.2;
+  }
+  .contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardCont h6 {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+  .contentSection1 .contentSec1-main .contentSec1-card .contentSec1-cardIcon {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+    transform: translateX(20px);
+  }
+  .contentSection1 .contentSec1-main .row .col-md-6:nth-child(2n) .contentSec1-card {
+    padding: 25px 25px 25px 0px;
+  }
+  .contentSection1 {
+    padding: 80px 0px;
+  }
+  .ppcSection3 {
+    padding: 20px 0;
+  }
+  .accordion li .acc_title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1200px) {
+  .mn-btn a {
+    font-size: 14px;
+    padding: 12px 25px 12px 25px;
+    gap: 10px;
+  }
+  .menu li {
+    padding-right: 20px;
+  }
+  .menu li a {
+    font-size: 14px;
+    padding: 10px 0;
+  }
+  a.logo {
+    width: 60%;
+  }
+  .header-btn a {
+    gap: 5px;
+    height: 40px;
+    padding: 8px 15px;
+    font-size: 12px;
+  }
+  .header-btn a svg {
+    width: 18px;
+  }
+  ul.dropdown ol li a {
+    font-size: 15px;
+    line-height: 1.2;
+    padding: 5px 5px 2px;
+    border-radius: 2px;
+  }
+  ul.dropdown ol li p {
+    font-size: 9px;
+    padding: 5px 5px 0;
+  }
+  .portfolio-main {
+    padding-bottom: 30px;
+  }
+  .portfolio-gallery {
+    grid-auto-rows: 180px;
+  }
+  .portfolioSection {
+    padding: 50px 0 40px;
+  }
+  .creatingSection .creatingSec-hd {
+    padding-bottom: 50px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card h5 {
+    font-size: 13px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card a {
+    padding: 10px 10px 10px 10px;
+    font-weight: 400;
+    margin-top: 12px;
+    font-size: 12px;
+    gap: 8px;
+    line-height: 1px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card a svg {
+    width: 15px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card p {
+    font-size: 10px;
+    padding-bottom: 37px;
+    line-height: 1.2;
+  }
+  .mn-hd h6 {
+    font-size: 30px;
+  }
+  .conatctSectionPage .conatctSecP-cont h6.sub {
+    font-size: 26px;
+  }
+  .conatctSectionPage .conatctSecP-cont h4 {
+    font-size: 18px;
+    padding: 20px 0 12px 0;
+  }
+  .conatctSectionPage .conatctSecP-form label {
+    gap: 10px;
+    font-size: 10px;
+  }
+  .conatctSectionPage .conatctSecP-form label input[type=checkbox] {
+    width: 10px;
+    height: 10px;
+    padding: 0;
+  }
+  .conatctSectionPage .conatctSecP-form .row {
+    row-gap: 10px;
+  }
+  .conatctSectionPage .conatctSecP-form input {
+    height: 40px;
+    font-size: 11px;
+    padding: 8px 8px;
+  }
+  .conatctSecP-form [class^=col-md-] {
+    padding: 0 6px;
+  }
+  .dropdown-blog h6 {
+    font-size: 15px;
+    padding-bottom: 10px;
+  }
+  .dropdown-blog .userList h4 {
+    font-size: 8px;
+    padding-top: 5px;
+  }
+  .dropdown-blog .userList {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .dropdown-blog p {
+    font-size: 11px;
+    line-height: 1.2;
+    padding-bottom: 15px;
+  }
+  .dropdown-blog .blogSchedulebtn {
+    font-size: 14px;
+  }
+  .seoSec1-second [class^=col-md-] {
+    position: relative;
+  }
+  .seoSection1 .seoSec1-second .seoSec1-second-third {
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 100%;
+  }
+  .contactSection .contactSec-form .contactSec-formInput input {
+    padding: 12px 15px;
+    font-size: 14px;
+    line-height: 1.2;
+  }
+  .contactSection .contactSec-form .contactSec-formCheck label {
+    font-size: 14px;
+  }
+  .contactSection .contactSec-form .contactSec-formBtn button {
+    font-size: 15px;
+    padding: 15px 60px;
+    border-radius: 4px;
+  }
+  footer .widget a {
+    font-size: 12px;
+    line-height: 1;
+  }
+  footer .widget ol li {
+    padding-bottom: 15px;
+  }
+  footer .widget ul li {
+    padding-bottom: 10px;
+  }
+  footer .widget h6 {
+    font-size: 18px;
+  }
+  footer .widget label {
+    font-size: 12px;
+  }
+  .reviewSection .reviewSec-main .reviewSec-card .reviewSec-cardCont p {
+    font-size: 14px;
+    line-height: 1.3;
+    padding-bottom: 15px;
+  }
+  .mainBanner-cont h1 {
+    font-size: 45px;
+  }
+  .mainBanner-cont p {
+    font-size: 14px;
+    width: 100%;
+  }
+  .mainBanner-cont h2 {
+    font-size: 22px;
+  }
+  .aboutSection1 .aboutSec1-cont p {
+    font-size: 14px;
+    line-height: 1.3;
+  }
+}
+@media (max-width: 992px) {
+  .menu li {
+    padding-right: 12px;
+  }
+  .menu li a {
+    font-size: 12px;
+  }
+  ul.dropdown {
+    width: 100%;
+    max-height: 100vh;
+    height: 360px;
+    overflow: auto;
+  }
+  ul.dropdown ol {
+    height: auto;
+    overflow: visible;
+    padding-right: 10px;
+    border-right: 1px solid #ccc;
+    padding-left: 10px;
+  }
+  ul.dropdown ol li a {
+    font-size: 12px;
+  }
+  ul.dropdown ol li {
+    padding-bottom: 8px;
+    padding-right: 0;
+  }
+  .mainBanner-cont .extara {
+    width: 100px;
+    height: auto;
+    top: -50px;
+    right: -70px;
+  }
+  .mainBanner {
+    min-height: 1px;
+    padding: 170px 5vw 40px;
+  }
+  .mainBanner-cont h1 {
+    font-size: 36px;
+  }
+  .mainBanner-cont h2 {
+    font-size: 20px;
+  }
+  .mainBanner-cont p {
+    font-size: 13px;
+  }
+  .mainBanner-cont a.btn {
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    gap: 8px;
+  }
+  .mainBanner-cont a.btn svg {
+    width: 15px;
+  }
+  .marqueeSection h6 {
+    font-size: 18px;
+  }
+  .marqueeSection ul {
+    gap: 20px;
+  }
+  .marquee, .marquee1 {
+    height: 30px;
+  }
+  .mainBanner-cont ul {
+    gap: 15px;
+    padding-top: 20px;
+  }
+  .header-btn {
+    gap: 10px;
+  }
+  .header-btn a {
+    gap: 5px;
+    height: 30px;
+    padding: 8px 10px;
+    font-size: 10px;
+  }
+  .header-btn a svg {
+    width: 12px;
+  }
+  .portfolio-gallery {
+    grid-auto-rows: 150px;
+  }
+  .portfolio-nav ul li a {
+    font-size: 14px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card h5 {
+    font-size: 12px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card {
+    padding: 20px 10px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-card a {
+    padding: 7px 10px 7px 10px;
+    font-weight: 400;
+    margin-top: 12px;
+    font-size: 11px;
+    gap: 5px;
+    line-height: 1px;
+  }
+  .creatingSection .creatingSec-main .creatingSec-img {
+    height: 141px;
+  }
+  .accordion li .acc_desc h4 {
+    font-size: 14px;
+  }
+}
 @media (max-width: 768px) {
   .forMobile {
     display: block;

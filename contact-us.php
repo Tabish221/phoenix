@@ -238,7 +238,7 @@
 
             <div class="col-md-4">
                <div class="conatctSecP-img">
-                  <<img src="assets/images/contact/img1.png" alt="img">>
+                  <img src="assets/images/contact/img1.png" alt="img">
                </div>
             </div>
           </div>

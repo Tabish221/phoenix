@@ -8,27 +8,14 @@ $(document).ready(function () {
         $('body').toggleClass('ovr-hiddn');
     });
 
-    $('.loginUp').click(function () {
-        $('.LoginPopup').fadeIn();
-        $('.overlay').fadeIn();
-    });
-
-    $('.signUp').click(function () {
-        $('.signUpPop').fadeIn();
-        $('.overlay').fadeIn();
-    });
-
     $('.closePop,.overlay').click(function () {
         $('.popupMain').fadeOut();
         $('.overlay').fadeOut();
     });
 
     $('.closeico,.overlay').click(function () {
-
         $('.popupmain').fadeOut();
         $('.overlay').fadeOut();
-
-
     });
 
 });
@@ -38,40 +25,8 @@ $('.popstatic').click(function () {
     $('.centercont.dynamic').addClass('d-none');
     $('#popstatic').fadeIn();
     $('.overlay').fadeIn();
-
-
-    var orgtexts = '$99';
-    //  $(".centercont h3 span").text('Start your Trademark Registration Now');
-    $(".centercont h4").html("in Just <span>" + orgtexts + "</span>");
 });
 
-
-// Fancy Media
-// $('.fancybox-media').fancybox({
-//     openEffect: 'none',
-//     closeEffect: 'none',
-//     helpers: {
-//         media: {}
-//     }
-// });
-
-
-// Slider For
-$('.slider-for').slick({
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    dots: false,
-    arrows: false,
-    fade: true,
-    asNavFor: '.slider-nav'
-});
-$('.slider-nav').slick({
-    slidesToShow: 4,
-    slidesToScroll: 1,
-    asNavFor: '.slider-for',
-    dots: false,
-    focusOnSelect: true
-});
 
 
 // Accordion
@@ -113,167 +68,6 @@ $('.dropdown-nav').hover(function(){
     $(this).addClass('hoverActive');
 })
 
-
-// Normal Slider
-// $('.design-card-list').slick({
-//     slidesToShow: 3,
-//     slidesToScroll: 1,
-//     autoplay: true,
-//     autoplaySpeed: 0,
-//     speed: 8000,
-//     cssEase: 'linear',
-//     dots: false,
-//     arrows: false,
-//     responsive: [
-//         {
-//             breakpoint: 1025,
-//             settings: {
-//               slidesToShow: 2,
-//               slidesToScroll: 3,
-//             }
-//           },
-//           {
-//             breakpoint: 885,
-//             settings: {
-//               slidesToShow: 1,
-//               slidesToScroll: 1
-//             }
-//           },
-//           {
-//             breakpoint: 600,
-//             settings: {
-//                 cssEase: 'ease',
-//                 slidesToShow: 1,
-//                 slidesToScroll: 1,
-              
-//             }
-//           }
-//       ]
-// });
-// $('.design-card-list-2').slick({
-//     slidesToShow: 3,
-//     slidesToScroll: 1,
-//     autoplay: true,
-//     rtl:true,
-//     autoplaySpeed: 0,
-//     speed: 8000,
-    
-//     cssEase: 'linear',
-//     dots: false,
-//     arrows: false,
-//     responsive: [
-//         {
-//             breakpoint: 1025,
-//             settings: {
-//               slidesToShow: 2,
-//               slidesToScroll: 1,
-//             }
-//           },
-//           {
-//             breakpoint: 885,
-//             settings: {
-//               slidesToShow: 1,
-//               slidesToScroll: 1
-//             }
-//           },
-//           {
-//             breakpoint: 600,
-//             settings: {
-//                 cssEase: 'ease',
-//                 slidesToShow: 1,
-//                 slidesToScroll: 1,
-              
-              
-//             }
-//           }
-//       ]
-// });
-
-
-// $('.marquee-slider1').slick({
-//     slidesToShow: 2,
-//     slidesToScroll: 1,
-//     autoplay: true,
-//     autoplaySpeed: 0,
-//     speed: 8000,
-//     variableWidth: true,
-//     cssEase: 'linear',
-//     dots: false,
-//     arrows: false,
-//     lazyLoad: 'ondemand',
-//     responsive: [
-
-//         {
-//             breakpoint: 1024,
-//             settings: {
-//                 slidesToShow: 7,
-//                 slidesToScroll: 3,
-
-//             }
-//         },
-//         {
-//             breakpoint: 885,
-//             settings: {
-//                 slidesToShow: 4,
-//                 slidesToScroll: 1,
-//                 variableWidth: true
-//             }
-//         },
-//         {
-//             breakpoint: 600,
-//             settings: {
-//                 slidesToShow: 3,
-//                 slidesToScroll: 1,
-//                 variableWidth: true
-//             }
-//         }
-
-//     ]
-// });
-
-// $('.marquee-slider2').slick({
-//     slidesToShow: 4,
-//     slidesToScroll: 1,
-//     autoplay: true,
-//     autoplaySpeed: 0,
-//     speed: 8000,
-//     variableWidth: true,
-//     cssEase: 'linear',
-//     dots: false,
-//     arrows: false,
-//     lazyLoad: 'ondemand',
-//     responsive: [
-
-//         {
-//             breakpoint: 1024,
-//             settings: {
-//                 slidesToShow: 7,
-//                 slidesToScroll: 3,
-
-//             }
-//         },
-//         {
-//             breakpoint: 885,
-//             settings: {
-//                 slidesToShow: 4,
-//                 slidesToScroll: 1,
-//                 variableWidth: true
-//             }
-//         },
-//         {
-//             breakpoint: 600,
-//             settings: {
-//                 slidesToShow: 3,
-//                 slidesToScroll: 1,
-//                 variableWidth: true
-//             }
-//         }
-
-//     ]
-//     // rtl: true
-// });
-
-
 // Navigation Menu 
 $(window).on('load', function () {
     var currentUrl = window.location.href.substr(window.location.href.lastIndexOf("/") + 1);
@@ -293,11 +87,9 @@ $(window).on('load', function () {
 
 
     $('.dropdown ol li').each(function() {
-        console.log($(this).hasClass('active'), 'INDEX & ELEMENT');
         if($(this).hasClass('active')){
             $('.dropdown-nav').addClass('active');
-        }
-        
+        }        
     });
 
 });

@@ -327,7 +327,11 @@ header {
 .menu li {
 	display: inline-block;
 	vertical-align: middle;
-	padding-left: 35px;
+	padding-right: 35px;
+
+	&.last{
+		padding-right: 0;
+	}
 }
 
 .menu li a {
@@ -591,11 +595,11 @@ ul.dropdown li a:hover {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height:100vh;
+	min-height:100vh;
 	display: flex;
 	align-items: center;
 	position: relative;
-	padding: 150px 5vw 50px;
+	padding: 260px 5vw 100px;
 
 	.mainBanner-cont{
 		position: relative;
@@ -768,7 +772,11 @@ ul.dropdown li a:hover {
 
 /* PORTFOLIO */
 .portfolioSection {
-	padding: 60px 0;
+	padding: 60px 0 120px;
+
+	.portfolio-btn{
+		display: none;
+	}
 }
 
 .mn-hd h6 {
@@ -910,20 +918,20 @@ ul.dropdown li a:hover {
 	padding-top: 154px;
 	position: relative;
 
-	&::after {
-		content: '';
-		width: 33.33%;
-		height: 100%;
-		background-image: url(../images/creating-bg-after.png);
-		background-position: right;
-		background-repeat: no-repeat;
-		background-size: cover;
-		position: absolute;
-		right: 0;
-		top: 0;
-		margin: auto;
-		object-fit: contain;
-	}
+	// &::after {
+	// 	content: '';
+	// 	width: 33.33%;
+	// 	height: 100%;
+	// 	background-image: url(../images/creating-bg-after.png);
+	// 	background-position: right;
+	// 	background-repeat: no-repeat;
+	// 	background-size: cover;
+	// 	position: absolute;
+	// 	right: 0;
+	// 	top: 0;
+	// 	margin: auto;
+	// 	object-fit: contain;
+	// }
 
 	.creatingSec-hd {
 		padding-bottom: 180px;
@@ -1196,6 +1204,7 @@ ul.dropdown li a:hover {
 
 	.packageSec-footer {
 		padding-top: 65px;
+		display: none;
 
 		.partner-slider{
 			img{
@@ -1632,6 +1641,7 @@ footer {
 		position: absolute;
 		left: -40%;
 		top: 0;
+		pointer-events: none;
 	}
 	
 	.seoSec1-main{
@@ -1648,6 +1658,7 @@ footer {
 				font-weight: bold;
 				color: #FFFDFB;
 				span{
+					display: inline;
 					color: #f0812a;
 				}
 			}
@@ -1765,6 +1776,7 @@ footer {
 			// bottom: 0;
 			// margin: auto;
 			max-width: 30vw;
+			pointer-events: none;
 		}
 	}
 }
